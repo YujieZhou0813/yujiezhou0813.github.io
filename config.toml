@@ -6,3 +6,8 @@ theme = "hugo-book"
 
 [params]
 BookSection = '*'
+bookToC = false
+BookSearch = false 
+
+
+
