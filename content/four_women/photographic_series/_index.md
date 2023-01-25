@@ -4,42 +4,55 @@ weight: 10
 ---
 
 
-![image of fourwomen](/images/1.jpg)
+<style>
+img
+{
+    display:block;
+    float:none;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+</style>
 
-![image of fourwomen](/images/2.jpg)
 
-![image of fourwomen](/images/3.jpg)
+![image of fourwomen](/images/fourwomen.jpg)
 
-![image of fourwomen](/images/4.jpg)
 
-![image of fourwomen](/images/5.jpg)
+![image of fourwomen](/images/fourwomen2.jpg)
 
-![image of fourwomen](/images/6.jpg)
+![image of fourwomen](/images/fourwomen3.jpg)
 
-![image of fourwomen](/images/7.jpg)
+![image of fourwomen](/images/fourwomen4.jpg)
 
-![image of fourwomen](/images/8.jpg)
+![image of fourwomen](/images/fourwomen5.jpg)
 
-![image of fourwomen](/images/9.jpg)
+![image of fourwomen](/images/fourwomen6.jpg)
 
-![image of fourwomen](/images/10.jpg)
+![image of fourwomen](/images/fourwomen7.jpg)
 
-![image of fourwomen](/images/11.jpg)
+![image of fourwomen](/images/fourwomen8.jpg)
 
-![image of fourwomen](/images/12.jpg)
+![image of fourwomen](/images/fourwomen9.jpg)
 
-![image of fourwomen](/images/13.jpg)
+![image of fourwomen](/images/fourwomen10.jpg)
 
-![image of fourwomen](/images/14.jpg)
+![image of fourwomen](/images/fourwomen11.jpg)
 
-![image of fourwomen](/images/15.jpg)
+![image of fourwomen](/images/fourwomen12.jpg)
 
-![image of fourwomen](/images/16.jpg)
+![image of fourwomen](/images/fourwomen13.jpg)
 
-![image of fourwomen](/images/17.jpg)
+![image of fourwomen](/images/fourwomen14.jpg)
 
-![image of fourwomen](/images/18.jpg)
+![image of fourwomen](/images/fourwomen15.jpg)
 
-![image of fourwomen](/images/19.jpg)
+![image of fourwomen](/images/fourwomen16.jpg)
 
-![image of fourwomen](/images/20.jpg)
+![image of fourwomen](/images/fourwomen17.jpg)
+
+![image of fourwomen](/images/fourwomen18.jpg)
+
+![image of fourwomen](/images/fourwomen19.jpg)
+
+![image of fourwomen](/images/fourwomen20.jpg)
