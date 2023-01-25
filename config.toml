@@ -1,6 +1,6 @@
 baseURL = 'https://yujiezhou.xyz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Yujie Zhou'
 theme = "hugo-book"
 
 

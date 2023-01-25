@@ -2,6 +2,6 @@
 title: "About"
 ---
 
-## About me xxx
+## About me 
 
 
