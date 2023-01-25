@@ -3,7 +3,11 @@ title: "About"
 weight: 30
 ---
 
-## About me 
+### Bio
 
-I am yujie 
+### CV 
+
+### Contact
+
+
 

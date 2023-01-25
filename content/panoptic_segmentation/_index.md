@@ -15,22 +15,25 @@ From a self-reflective critical stance, my practice seeks to identify, unravel a
 ![image of installation](/images/moa23_install.jpg)
 Installation View, MoA in Photography 23, The Finnish Museum of Photography, 2023 Jan-Mar
 
+
+
 ## 1989 in Translation 
 
-![image of video](/images/moa23_video1.jpg)
+[![image of video](/images/moa23_video1.jpg)](https://youtu.be/dGqFGohScHw)
 *1989 in Translation* from the series *Panoptic Segmentation*, Single-channel video, color, sound, 4:28 minutes, 2022
 
 ## Lunisolar Calendar
 
 ![image of calendar](/images/moa23_calendar.JPG)
-*Lunisolar Calendar* from the series *Panoptic Segmentation*, Performance, Letterpress print on 24 bound sheets of Chinese paper, 69 x 165 cm, 2022
+*Lunisolar Calendar* from the series *Panoptic Segmentation*, Performance, Letterpress print on 24 bound sheets of Chinese paper, 69 x 165 cm, 2022     
+
 
 [Video documentation coming soon...]
 
 ## Eclipse
 
 ![image of eclipse](/images/moa23_eclipse.JPG)
-*Eclipse* from the series *Panoptic Segmentation*, Archival pigment print, 80 x 120 cm, 2022
+*Eclipse* from the series *Panoptic Segmentation*, Archival pigment print, 80 x 120 cm, 2022   
 
 
 
