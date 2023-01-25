@@ -1,5 +1,6 @@
 ---
 title: "About"
+weight: 30
 ---
 
 ## About me 
