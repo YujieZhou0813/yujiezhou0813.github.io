@@ -3,7 +3,8 @@ title: "Artist Book"
 weight: 20
 ---
  **Artist Book**        
- 2022      
+ Photography, layout, printing, and binding: Yujie Zhou       
+ 2022          
  Size: 230mm x 170mm x 45mm       
  256 pages     
  Handmade box sewn with four books      
