@@ -12,6 +12,8 @@ Sep 29 - 22 Oct, 2023    Solo Exhibition, Photographic Gallery Hippolyte, Helsin
 
 **bio**
 
+![image of me](/images/18-2.jpg)
+
 Yujie Zhou  (b. 1997, China) is a visual artist working with photography as her primary medium. Through performativity and a decoded notion of language, her practice seeks to interrogate dominant historical narratives and power structures while reframing a collective individuality. 
 
 She graduated with a BSc in Mechanical Engineering granted by Changchun University of Science and Technology, China, and the University of Illinois at Chicago, US, –in 2019; and is currently undertaking her Master of Arts in Photography at Aalto University, Finland. Yujie’s work has been shown internationally in institutions such as The Finnish Musuem of Photography in Finland, Luxelakes.A4 Art Museum in China, and BFoto Festival in Spain.
@@ -31,7 +33,7 @@ She graduated with a BSc in Mechanical Engineering granted by Changchun Universi
 2021    *Growing from Moss*, LUXELAKES·A4 Art Museum, Chengdu, China             
 
 **Contact**      
-yujiezhoustudio[at]gmail[dot]com
-
+email: yujiezhoustudio[at]gmail[dot]com     
+ins: @yujie.jpg
 
 
