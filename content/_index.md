@@ -15,5 +15,4 @@ title: "Yujie Zhou"
 
 
 
-[![image of waf](/images/waf.jpg)](
-http://localhost:1313/where_are_you_from/)
+[![image of waf](/images/waf.jpg)](https://yujiezhou.xyz/where_are_you_from/)

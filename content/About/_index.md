@@ -7,8 +7,8 @@ weight: 30
 **current and upcoming**
 
 Jan 13 - Feb 12, 2023     Solo Exhibition, *Four Women*, **Photographic Centre Peri**, Turku, Finland  
-Jan 27 - 12 Mar, 2023     *MoA in Photography 23*, **The Finnish Museum of Photography**, Helsinki, Finland       
-Sep 29 - 22 Oct, 2023    Solo Exhibition, **Photographic Gallery Hippolyte**, Helsinki, Finland      
+Jan 27 - Mar 12, 2023     *MoA in Photography 23*, **The Finnish Museum of Photography**, Helsinki, Finland       
+Sep 29 - Oct 22, 2023    Solo Exhibition, **Photographic Gallery Hippolyte**, Helsinki, Finland      
 
 
 
