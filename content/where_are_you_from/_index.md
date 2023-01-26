@@ -2,6 +2,15 @@
 title: "Where are you from"
 weight: 25
 ---
+## Where are you from
+2021-ongoing
+
+“As All That Is Solid Melts into Air” - Marshall Berman     
+
+Ice and stone are a natural solid formation of the liquid and gas minerals that form the earth. The solidification process allows for more space in ice and rock than in the liquid form, and such space converts into a state of suspension, where insoluble memory can be, more or less, solidified and rendered.      
+
+“Where are you from” leads on a fluid journey through ice and rocks, light and shadow, reality and illusion from straight photography about landscapes in European countries to images that are inter- rupted by errors in the darkroom during development. It constructs the narrative of the complexity of emotion, desire, introspection, and instinct, which questions the understanding of our identity and belonging.      
+
 
 **Artist Book**      
 
