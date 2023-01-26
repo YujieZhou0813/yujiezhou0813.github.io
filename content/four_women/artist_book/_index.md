@@ -8,13 +8,9 @@ weight: 20
  256 pages     
  Handmade box sewn with four books      
 
-[![image of video](/images/book0.jpg)](https://youtu.be/-bvTSii_m6Y)
+[![image of video](/images/book1.jpg)](https://youtu.be/-bvTSii_m6Y)
 [Video documentation]
 
-
-
-
-![image of fourwomen](/images/book1.jpg)
 
 ![image of fourwomen](/images/book2.jpg)
 
