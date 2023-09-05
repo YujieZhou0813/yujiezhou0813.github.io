@@ -1,27 +1,19 @@
 ---
 title: "Q"
-weight: 20
+weight: 10
+bookCollapseSection: true
 ---
 
-## Q: Fragmentation as Method
+## Q: Fragmentation as Method 
+   
+The word “fragments,” from the Latin word "fragmere," means to break. A fragment becomes a broken shard, a mere remanent of a former entirety. It forever carries the mark of incompleteness, is forever tied to the whole that gives it a subordinate existence. In the context of my practice, the fragments refer to residues
+of the process of translation, they represent the untranslatable in language. These fragments elude the build in intelligence of control systems, they find gaps in said systems; they are evidence of a myriad of meanings, both cultural and linguistic. It is through these fragments that I strive to develop a deeper understanding of my origin and identity.  
 
-### Making Myself Invisible
+These dispersed and irregular shards, they conform just a small part of a larger narrative. They emerge from the limited information I was able to gather, always incomplete and disjointed. This does not render my pursuit of knowledge any less relentless or thorough, there is just no truly comprehensible narrative out there to be grasped. Our present lives are increasingly framed by fragmented experiences. History itself can be seen as a collection of these fragments. These fragments can take on different forms, ranging from ancient texts to information that has been censored by state authorities. They possess both a sense of the past and of the present; rooted in history while their sense of belonging feels current, anchored to that present. Fragments, possibly also by means of time, do account for a certain kind of materiality; they bear, wear and tear their message in accents, markings and strokes. Whether of carvings or pixels, the fragmented is too manifest in the collective will and attempt to safeguard information that has been regarded as sensitive and, thus, likely to disappear; a product of internet-based communications and their being a subject of sustained surveillance.
 
-Q: Making Myself Invisible
-from the series *Panoptic Segmentation*
-2022, Thermochromic pigment print, 42 x 42 cm
+I rely upon fragments in their given capacity to challenge conventional narratives and linear mainstream ideologies. By how their employment allows for a plurality of readings, fragments embrace the illegible, and by doing so make illegibility a form of protest. When a fragmentary narrative becomes method, I am armed with a tool that breaks signifiers as easily as it does walls. I am armed and armored, I am in possession of a tool that can defy a totalitarian censorship as much as it can live on as a beckon of resistance; in what would comprise an undeniable and long- lasting reconfiguration. A dismantling of the political regimes that present us with oppression and call it patriotism.
 
-The title of this work draws inspiration from the book *Making Myself Visible* by Rasheed Araeen. Araeen suggested that the question of identity is crucial for Third World artists, who should distinguish themselves from Western bourgeois artists. However, throughout my artistic journey, my inclination has always been to make myself invisible rather than visible. 
-
-*Making Myself Invisible* was triggered by an incident, I was scanning myself using a 3D scanner and instead of exporting the file as an .obj 3D object format –as I should have– I exported it as a .png image. A three-dimensional me got then transformed into a fragmented two-dimensional self, an image where only fragments of my skin remained visible. To my eyes, the 3D scanner itself operates as would a surveillance system. It diligently gathers information about me as to construct a comprehensive three-dimensional profile. What was first accident turned purpose, my gesture forced a translation that resulted in the retrieved data losing its cohesiveness.
-
-I decided to print this objectifying self-portrait using a
-thermochromic pigment, such kinds of ink turn gradually transparent
-when subjected to a raise in temperature. In Making Myself Invisible, this
-raise in temperature is produced by means of touching the print’s surface; an element that is intended for audience interaction. I render myself invisible
-to the viewer, and this almost immediately makes me feel safe.
+In the work *Making Myself Invisible*, fragments function as shield; to hide a totality behind a limited visibility. They allow me to conceal my full identity, they provide refuge, protecting me from being exposed or detected. They hinder my name, my personal information. In providing refuge, they provide comfort—a safe space. *Making Myself Invisible* exemplifies the role these fragments take on within my practice, these find their voice in the seemingly arbitrary. It is imperative that the message does come through, and for that I set myself to find a new legibility by means of an apparent illegibility.
 
 
-![image of invisible](/images/QWERTY/ladder1.jpg)
-
-*Ladder and Wall* from the series *Panoptic Segmentation* 
+Is within this safe environment that I find my will to resist, a means to confront and defy the grasp of machines, the autocratic nature of segmentation systems. Thus, I evade censorship, escape through the fault lines product of translation. In *Ladder and Wall* shows how my practice does not only make use of the fragments I can retrieve as generated by machines, but actively yields to the creation of fragments in what comprises an act of resistance.

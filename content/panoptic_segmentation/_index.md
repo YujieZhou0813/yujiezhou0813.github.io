@@ -1,6 +1,7 @@
 ---
 title: "Panoptic Segmentation"
 weight: 10
+bookCollapseSection: true
 ---
 
 ## Panoptic Segmentation
