@@ -1,7 +1,43 @@
 ---
 title: "Installation View"
-weight: 30
+weight: 10
+bookCollapseSection: true
 ---
+
+
+### **Yujie Zhou, *Four Women*, Installation View at Four Women, Solo Exhibition Photographic Centre Peri, Turku Kunsthall, Finland, 2023**
+
+![image of fourwomen](/images/fourwomen_peri/peri.jpg)
+
+
+![image of fourwomen](/images/fourwomen_peri/peri-1.jpg)
+
+
+![image of fourwomen](/images/fourwomen_peri/peri-2.jpg)
+
+
+![image of fourwomen](/images/fourwomen_peri/peri-3.jpg)
+
+
+![image of fourwomen](/images/fourwomen_peri/peri2-1.jpg)
+
+![image of fourwomen](/images/fourwomen_peri/peri2-2.jpg)
+
+
+![image of fourwomen](/images/fourwomen_peri/peri2-3.jpg)
+
+
+![image of fourwomen](/images/fourwomen_peri/peri2-4.jpg)
+
+
+![image of fourwomen](/images/fourwomen_peri/peri2-5.jpg)
+
+
+![image of fourwomen](/images/fourwomen_peri/peri2-2.jpg)
+
+Installation View, BFoto Festival, Barbastro, Spain, August 2022
+
+
 
 
 ![image of fourwomen](/images/bfoto1.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Artist Book"
-weight: 20
+weight: 30
 ---
  **Artist Book**        
  Photography, layout, printing, and binding: Yujie Zhou       
@@ -9,13 +9,10 @@ weight: 20
  256 pages     
  Handmade box sewn with four books      
 
-[![image of video](/images/book1.jpg)](https://youtu.be/-bvTSii_m6Y)
-[Video documentation]
+documentation link: https://drive.google.com/file/d/1vhgVbkvq7VswBUJXOQiXvtYu64otyHyl/view?usp=sharing 
 
+[![image of video](/images/book1.jpg)
 
-![image of fourwomen](/images/book2.jpg)
-
-![image of fourwomen](/images/book3.jpg)
 
 ![image of fourwomen](/images/book4.jpg)
 

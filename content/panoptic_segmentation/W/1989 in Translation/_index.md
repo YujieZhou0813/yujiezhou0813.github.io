@@ -1,6 +1,7 @@
 ---
 title: "1989 in Translation"
 weight: 20
+
 ---
 
 ### **1989 in Translation**  
