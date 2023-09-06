@@ -7,7 +7,7 @@ weight: 20
 
 from the series Panoptic Segmentation  
 2022, Single-channel video, color, sound, 4:28 minutes  
-Video link: https://drive.google.com/file/ d/1deIfbWgYScNEo00PPadQl6IG4iHjF4HO/view?usp=drive_link  
+Video link: https://drive.google.com/file/d/1deIfbWgYScNEo00PPadQl6IG4iHjF4HO/view?usp=sharing  
 
 *1989 in Translation* is my first step up a Ladder. Here I walk you through my coming across a chapter in history that my disciplinarian education seems to have misplaced: the Tiananmen Square protests. Needless should be to say that, as a
 student who had to sit through patriotic education, the impact these protests have had on my life is by no means inconsequential. 
