@@ -16,19 +16,19 @@ As modern simplified Chinese has undergone changes in its form and adopted the P
 Rather than being a conventional calendar, I modified it to be closed by binding both sides of the paper together. Each day, counting from the Chinese Lunar New Year in 2023, I tore off one sheet of paper at the exhibition site. This act of tearing off serves as a way to question and attempt to understand the meaning of 明 (light and to understand) from the origin of language.
 
 
-![image of calendar](/images/QWERTY/E/calendar-install.JPG)  
+![image of calendar](/images/QWERTY/T/calendar-install.JPG)  
 Yujie Zhou, *Lunisolar Calendar*, Installation View at *MoA in Photography 23*, Finnish Museum of Photography, Finland, 2023
 
-![image of ladder](/images/QWERTY/E/calendar1.jpg)   
+![image of ladder](/images/QWERTY/T/calendar1.jpg)   
 Yujie Zhou, *Lunisolar Calendar*, 2023
 
-![image of ladder](/images/QWERTY/E/calendar2.jpg)    
+![image of ladder](/images/QWERTY/T/calendar2.jpg)    
 Yujie Zhou, *Lunisolar Calendar*, 2023
 
-![image of ladder](/images/QWERTY/E/calendar-4.jpg)  
+![image of ladder](/images/QWERTY/T/calendar-4.jpg)  
 Yujie Zhou, *Lunisolar Calendar*, 2023
 
-![image of ladder](/images/QWERTY/E/calendar-5.jpg)   
+![image of ladder](/images/QWERTY/T/calendar-5.jpg)   
 Yujie Zhou, *Lunisolar Calendar*, 2023
 
-![image of ladder](/images/QWERTY/E/calendar3.jpg)  
+![image of ladder](/images/QWERTY/T/calendar3.jpg)  

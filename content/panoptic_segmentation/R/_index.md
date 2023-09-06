@@ -3,7 +3,7 @@ title: "R"
 weight: 40
 ---
 
-## R
+## R: Screenshots 
 Excerpt from *Panoptic Segmentation*.   
 
 ![image of shadow](/images/QWERTY/R/π-text.jpg)  
