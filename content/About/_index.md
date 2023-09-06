@@ -5,14 +5,10 @@ weight: 30
 
 
 
-
-### **bio**
-
 **Yujie Zhou** (b. 1997, China) is a visual artist based in Helsinki. Through performativity and a decoded notion of language, her practice seeks to interrogate dominant historical narratives and power structures while reframing collective individuality. Zhou completed her MA in Photography at Aalto University in 2023, and her BS in Mechanical Engineering in 2019. Her work has been exhibited internationally at the Finnish Museum of Photography, Photographic Centre Peri, BFoto Festival (Spain), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023. She is set to participate in the Saari Residency maintained by Kone Foundation in spring 2024.
 
-### **CV**
 
-**Solo Exhibitions / Solo Projects**
+**Solo Exhibitions**
 
 2023	(upcoming) Photographic Gallery Hippolyte, Helsinki, Finland
 
@@ -21,7 +17,7 @@ weight: 30
 2022	*Four Women*, BFoto Festival, Barbastro, Spain
 
 
- **Selected Duo/Group Exhibitions**
+ **Selected Group Exhibitions**
 
 2023 (upcoming) alpha nova & galerie futura, Berlin, Germany
 
@@ -59,12 +55,6 @@ weight: 30
 
 ––––Aalto University full scholarship
 
-**Publishing**
-
-2022	*Where are you from*, Photobook, Self-publishing  
-
-––––*Four Women*, Artist Book
-
 **Education**
 
 2021-2023	Master of Arts in Photography, minor in Textiles - Material and Structure
@@ -87,7 +77,4 @@ weight: 30
 
 2019	Curatorial project Intern, LUXELAKES·A4 Art Museum, Chengdu, China
           
-
-
-
 

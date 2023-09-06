@@ -11,7 +11,7 @@ weight: 30
 
 documentation link: https://drive.google.com/file/d/1vhgVbkvq7VswBUJXOQiXvtYu64otyHyl/view?usp=sharing 
 
-[![image of video](/images/book1.jpg)
+![image of video](/images/book1.jpg)
 
 
 ![image of fourwomen](/images/book4.jpg)

@@ -1,5 +1,5 @@
 ---
-title: "Installation View"
+title: "Installation Views"
 weight: 10
 bookCollapseSection: true
 ---
