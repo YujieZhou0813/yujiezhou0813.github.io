@@ -5,38 +5,55 @@ bookCollapseSection: true
 ---
 
 ## Panoptic Segmentation
-### MoA in Photography 23 [2022-2023]
 
-Artworks from the series Panoptic Segmentation, 2022-2023, Medium: Mixed - Photography, video, and performance.
+Artworks from the series Panoptic Segmentation, 2022-2023, Medium: Mixed - Photography, video, performance, textile, printmaking, and publishing. 
 
-Panoptic Segmentation refers to an homonymous method in computer vision that enables machines to separate objects into segments. Similarly, from a socio-political perspective, the panopticon is a disciplinary mechanism based on continuous surveillance. Both our world and these worlding practices function on a similar basis. They are mechanisms, systems that can be broken down into component-based structures.
+Panoptic Segmentation refers to an image segmentation method in computer vision that allows machines to separate objects into segments. From a socio-political perspective, this method draws a parallel with the panopticon, a disciplinary mechanism based on continuous surveillance. Both systems operate similarly by breaking down objects into segmented components.
 
-From a self-reflective critical stance, my practice seeks to identify, unravel and decode the mechanics behind power structures in order to tackle the invisible. By performing Chinese radio gymnastics while in dialogue with a censored history and a Google Lens reading; by ripping off letterpress prints engraved with Chinese characters that were formed using the Latin alphabet; by walking through an allegoric (VPN) tunnel in pitch darkness; I am eager to question the relationship between a collective political identity and our experiences as individuals. All with the purpose of deconstructing the notion of language so as to tear apart signifiers and reconstruct meaning.
+From a self-reflective critical stance, my practice seeks to identify, unravel and decode the mechanics behind power structures in order to tackle the invisible. I am eager to question the relationship between a collective political identity and our experiences as individuals. All with the purpose of deconstructing the notion of language so as to tear apart signifiers and reconstruct meaning.
 
 ![image of installation](/images/moa23_install.jpg)
 Installation View, MoA in Photography 23, The Finnish Museum of Photography, 2023 Jan-Mar
 
+[![image of Q](/images/QWERTY/Q/makingmyslefinvisible-1.png)](https://yujiezhou.xyz/panoptic_segmentation/q/making-myself-invisible/)     
+Q: Making Myself Invisible
 
 
-## 1989 in Translation 
-
-[![image of video](/images/moa23_video1.jpg)](https://youtu.be/dGqFGohScHw)
-*1989 in Translation* from the series *Panoptic Segmentation*, Single-channel video, color, sound, 4:28 minutes, 2022
-
-## Lunisolar Calendar
-
-![image of calendar](/images/moa23_calendar.JPG)
-*Lunisolar Calendar* from the series *Panoptic Segmentation*, Performance, Letterpress print on 24 bound sheets of Chinese paper, 69 x 165 cm, 2022     
-
-
-[Video documentation coming soon...]
-
-## Eclipse
-
-![image of eclipse](/images/moa23_eclipse.JPG)
-*Eclipse* from the series *Panoptic Segmentation*, Archival pigment print, 80 x 120 cm, 2022   
+[![image of Q](/images/QWERTY/Q/ladder1.jpg)](https://yujiezhou.xyz/panoptic_segmentation/q/ladder-and-wall/)    
+Q: Ladder and Wall 
 
 
 
-![image of shadow](/images/moa23_shadow.jpg)   
-*Eclipse* from the series *Panoptic Segmentation*, 2022
+[![image of W](/images/QWERTY/W/1989-1.png)](https://yujiezhou.xyz/panoptic_segmentation/w/1989-in-translation/)    
+W: 1989 in Translation
+
+
+[![image of E](/images/QWERTY/E/eclipse.jpg)](https://yujiezhou.xyz/panoptic_segmentation/e/eclipse/)    
+E: Eclipse
+
+
+[![image of E](/images/QWERTY/E/shadowt-1.jpg)](https://yujiezhou.xyz/panoptic_segmentation/e/shadow-theater/)    
+E: Shadow Theater
+
+
+[![image of E](/images/QWERTY/E/where-1.jpg)](https://yujiezhou.xyz/panoptic_segmentation/e/where-are-you-from/)    
+E: Where are you from
+
+
+[![image of E](/images/QWERTY/E/us_and_them-1.jpg)](https://yujiezhou.xyz/panoptic_segmentation/e/us-and-them/)    
+E: Us and Them 
+
+
+[![image of R](/images/QWERTY/R/flipbook.jpg)](https://yujiezhou.xyz/panoptic_segmentation/r/%CF%80/)    
+R: π
+
+
+[![image of T](/images/QWERTY/T/documentation/textile-2.jpg)](https://yujiezhou.xyz/panoptic_segmentation/t/save-as-text/)  
+T: Save as Text
+
+
+[![image of T](/images/QWERTY/T/calendar1.jpg)](https://yujiezhou.xyz/panoptic_segmentation/t/lunisolar-calendar/)  
+T: Lunisolar Calendar
+
+
+
