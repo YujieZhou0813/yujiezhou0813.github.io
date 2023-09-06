@@ -4,7 +4,7 @@ weight: 40
 ---
 
 
-### **Us and Thems**   
+### **Us and Them**   
 from the series *Panoptic Segmentation*  
 2023, Riso print
 59.4 x 42 cm Self-publishing, edition of 150

@@ -3,7 +3,7 @@ title: "π"
 weight: 40
 ---
 
-## π
+### **π**
 from the series *Panoptic Segmentation* 
 2023, Riso print, 143 x 81 x 12 mm  
 Self-publishing, Handmade, edition of 25 
