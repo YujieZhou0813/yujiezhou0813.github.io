@@ -4,7 +4,7 @@ weight: 20
 ---
 
 
-### **Installation View, BFoto Festival, Barbastro, Spain, August 2022**
+**Installation View, BFoto Festival, Barbastro, Spain, August 2022**
 
 
 ![image of fourwomen](/images/fourwomen_bfoto/Bfoto.jpg)

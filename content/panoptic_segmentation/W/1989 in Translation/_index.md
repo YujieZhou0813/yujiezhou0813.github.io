@@ -20,11 +20,7 @@ This video work is a collaborative performance with Google Translate that delves
 Yujie Zhou, *1989 in Translation*, Installation View at *MoA in Photography 23*, Finnish Museum of Photography, Finland, 2023   
 
 ![image of 19892](/images/QWERTY/W/1989-1.png)  
-Yujie Zhou, *1989 in Translation*,2022, Video
-
 ![image of 19892](/images/QWERTY/W/1989-2.png)
-Yujie Zhou, *1989 in Translation*,2022, Video
-
 ![image of 19892](/images/QWERTY/W/1989-3.png) 
 Yujie Zhou, *1989 in Translation*,2022, Video
 

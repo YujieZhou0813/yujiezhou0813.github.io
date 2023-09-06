@@ -20,15 +20,15 @@ Rather than being a conventional calendar, I modified it to be closed by binding
 Yujie Zhou, *Lunisolar Calendar*, Installation View at *MoA in Photography 23*, Finnish Museum of Photography, Finland, 2023
 
 ![image of ladder](/images/QWERTY/T/calendar1.jpg)   
-Yujie Zhou, *Lunisolar Calendar*, 2023
+
 
 ![image of ladder](/images/QWERTY/T/calendar2.jpg)    
-Yujie Zhou, *Lunisolar Calendar*, 2023
 
+
+![image of ladder](/images/QWERTY/T/calendar3.jpg)
 ![image of ladder](/images/QWERTY/T/calendar-4.jpg)  
-Yujie Zhou, *Lunisolar Calendar*, 2023
 
 ![image of ladder](/images/QWERTY/T/calendar-5.jpg)   
-Yujie Zhou, *Lunisolar Calendar*, 2023
 
-![image of ladder](/images/QWERTY/T/calendar3.jpg)  
+  
+Yujie Zhou, *Lunisolar Calendar*, 2023

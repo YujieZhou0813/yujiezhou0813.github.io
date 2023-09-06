@@ -4,7 +4,7 @@ weight: 10
 ---
 
 
-### **Yujie Zhou, *Four Women*, Installation View at Four Women, Solo Exhibition Photographic Centre Peri, Turku Kunsthall, Finland, 2023**
+**Yujie Zhou, *Four Women*, Installation View at Four Women, Solo Exhibition Photographic Centre Peri, Turku Kunsthall, Finland, 2023** 
 
 ![image of fourwomen](/images/fourwomen_peri/peri.jpg)
 

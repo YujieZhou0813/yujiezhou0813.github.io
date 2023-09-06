@@ -23,27 +23,27 @@ The physical movements involved in the process serve as a form of healing. Despi
 
 
 
-*The Whistle-Giver in Oracle bone script*    
+***The Whistle-Giver in Oracle bone script***     
 2023, Jacquard weave, wool and cotton, 310 x 110 cm. 
 ![image of textile](/images/QWERTY/T/textile-text2.jpg)  
  
-*The Whistle-Giver in Braille*    
+***The Whistle-Giver in Braille***   
 2023, Jacquard weave, wool and cotton, 210 x 120 cm.  
 ![image of textile](/images/QWERTY/T/textile-text3.jpg) 
   
-*The Whistle-Giver in Morse code*    
+***The Whistle-Giver in Morse code***     
 2023, Jacquard weave, wool and cotton, 310 x 110 cm.  
 ![image of textile](/images/QWERTY/T/textile-text4.jpg)  
 
-*Voice of April*    
+***Voice of April***      
 2023, Jacquard weave, wool and cotton, 310 x 110 cm.   
 ![image of textile](/images/QWERTY/T/textile-text5.jpg)  
  
-*In the end, we lost our language*     
+***In the end, we lost our language***       
 2023, Jacquard weave, wool and cotton, 310 x 110 cm.  
 ![image of textile](/images/QWERTY/T/textile-text6.jpg)  
   
-*“A Letter from Tehran” in Nvshu*     
+***“A Letter from Tehran” in Nvshu***         
 2023, Jacquard weave, wool and cotton, 310 x 110 cm. 
 ![image of textile](/images/QWERTY/T/textile-text7.jpg)  
 

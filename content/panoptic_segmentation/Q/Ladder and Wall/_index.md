@@ -13,9 +13,7 @@ In *Ladder and Wall*, I purposefully trigger a fissure as to pierce the Great Fi
 
 
 ![image of ladder](/images/QWERTY/Q/ladder1.jpg)  
-Yujie Zhou, *Ladder and Wall*, 2022
-
-![image of ladder](/images/QWERTY/Q/ladder2.jpg)   
+  
 Yujie Zhou, *Ladder and Wall*, 2022
 
 ![image of ladder](/images/QWERTY/Q/ladder-process1.jpg)   
