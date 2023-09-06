@@ -17,5 +17,5 @@ In the work Shadow Theater, I traversed a physical tunnel instead of a virtual V
 ![image of shadow](/images/QWERTY/E/shadowt-1.jpg)  
 ![image of shadow](/images/QWERTY/E/shadowt-2.jpg)  
 ![image of shadow](/images/QWERTY/E/shadowt-3.jpg)  
- ![image of shadow](/images/QWERTY/E/shadowt-4.jpg)  
+![image of shadow](/images/QWERTY/E/shadowt-4.jpg)  
 Yujie Zhou, *Shadow Theater*, Installation View at Tides Espoo Culture Center, Finland, 2023 

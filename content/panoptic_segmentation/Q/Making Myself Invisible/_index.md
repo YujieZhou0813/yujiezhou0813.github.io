@@ -1,5 +1,5 @@
 ---
-title: "Making Myself Invisibl"
+title: "Making Myself Invisible"
 weight: 10
 ---
 
