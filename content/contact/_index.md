@@ -14,8 +14,3 @@ ins: [@yujie.jpg](https://www.instagram.com/yujie.jpg/)
 Artist Statement is available upon request.
 
 
-
-![image of me](/images/profile/me.png)    
-Image id: Say hi from me when I just cut my hair myself 
-
-
