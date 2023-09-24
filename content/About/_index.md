@@ -5,7 +5,7 @@ weight: 30
 
 
 
-**Yujie Zhou** (b. 1997, China) is a visual artist based in Helsinki. Through performativity and a decoded notion of language, her practice seeks to interrogate dominant historical narratives and power structures while reframing collective individuality. Zhou completed her MA in Photography at Aalto University in 2023, and her BS in Mechanical Engineering in 2019. Her work has been exhibited internationally at the Finnish Museum of Photography, Photographic Centre Peri, BFoto Festival (Spain), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023. She is set to participate in the Saari Residency maintained by Kone Foundation in spring 2024.
+**Yujie Zhou** (b. 1997, China) is a visual artist based in Helsinki. Through performativity and a decoded notion of language, her practice seeks to interrogate dominant historical narratives and power structures while reframing collective individuality. Zhou completed her MA in Photography at Aalto University in 2023. Her work has been exhibited internationally at the Finnish Museum of Photography, Photographic Gallery Hippolyte, Photographic Centre Peri(Finland), BFoto Festival (Spain), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023. She is set to participate in the Saari Residency maintained by Kone Foundation in spring 2024.
 
 
 **Solo Exhibitions**
@@ -19,7 +19,7 @@ weight: 30
 
  **Selected Group Exhibitions**
 
-2023 (upcoming) alpha nova & galerie futura, Berlin, Germany
+2023 *I Made You To Find Me*, alpha nova & galerie futura, Berlin Art Week, Berlin, Germany
 
 –––– *MoA in Photography 23*, The Finnish Museum of Photography, Helsinki, Finland
 
@@ -37,7 +37,7 @@ weight: 30
 
 2024	(upcoming) Saari Residency-Kone Foundation, Finland
 
-2023	(upcoming) Plat(t)form, Fotomuseum Winterthur, Switzerland
+2023	Plat(t)form, Fotomuseum Winterthur, Switzerland
 
 ––––Finnfoto Project Grant, Finland
 
