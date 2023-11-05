@@ -21,7 +21,7 @@ Rather than being a conventional calendar, I modified it to be closed by binding
 
 <p>&nbsp;</p>
 
-![image of calendar](/images/QWERTY/T/calendar-install.JPG)  
+![image of calendar](/images/frontpage/calendar-install.JPG)  
 
 ![image](calendar.jpg)    
 
