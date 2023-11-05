@@ -5,9 +5,9 @@ theme = "hugo-book"
 
 
 [params]
-BookSection = '*'
-bookToC = false
-BookSearch = false 
+  BookSection = '*'
+  bookToC = false
+  BookSearch = false
 
 [markup]
     [markup.goldmark.renderer]

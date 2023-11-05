@@ -1,5 +1,6 @@
 ---
 title: "Yujie Zhou"
+description: "Yujie Zhou (b. 1997, Chengdu, China) is a multidisciplinary artist working with expanded photography, textile works, moving images, installation, and publishing."
 
 ---
 
