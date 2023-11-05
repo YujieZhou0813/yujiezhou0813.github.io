@@ -9,5 +9,7 @@ BookSection = '*'
 bookToC = false
 BookSearch = false 
 
-
+[markup]
+    [markup.goldmark.renderer]
+      unsafe = true
 
