@@ -12,6 +12,7 @@ Panoptic Segmentation refers to an image segmentation method in computer vision 
 From a self-reflective critical stance, my practice seeks to identify, unravel and decode the mechanics behind power structures in order to tackle the invisible. I am eager to question the relationship between a collective political identity and our experiences as individuals. All with the purpose of deconstructing the notion of language so as to tear apart signifiers and reconstruct meaning.
 
 
+
 ![image of installation](/images/moa23_install.jpg)
 ***<span style="color: #850000;">Panoptic Segmentation</span>***, Installation View at *MoA 23*, **Finnish Museum of Photography**, Finland, 2023
 
@@ -26,7 +27,7 @@ From a self-reflective critical stance, my practice seeks to identify, unravel a
 
 
 
-![image of E](/images/QWERTY/W/1989-1.png)](https://yujiezhou.xyz/panoptic_segmentation/e/1989-in-translation/)    
+![image of E](/images/QWERTY/W/1989-1.png)
 ***<span style="color: #850000;">1989 in Translation</span>***, from the series *Panoptic Segmentation*, 2022, Single-channel video, color, sound, 4:28 minutes
 
 
