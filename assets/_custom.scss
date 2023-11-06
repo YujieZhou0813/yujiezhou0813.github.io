@@ -6,6 +6,12 @@ h2 {
     text-decoration: underline !important;
   }
 
-  .book-menu a{
-    text-decoration: none !important;
-  }
+  .book-menu{
+    a{
+      text-decoration: none !important;
+    }
+    a.active {
+      color: var(--color-active-link);
+      font-weight: 600;
+    }
+  } 
