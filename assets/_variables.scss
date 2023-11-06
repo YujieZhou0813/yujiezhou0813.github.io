@@ -1,0 +1,18 @@
+  // Themes
+  @mixin theme-light {
+    --gray-100: #f8f9fa;
+    --gray-200: #e9ecef;
+    --gray-500: #adb5bd;
+  
+    --color-link: #000000;
+    --color-visited-link: #000000;
+  
+    --body-background: white;
+    --body-font-color: black;
+  
+    --icon-filter: none;
+  
+    --hint-color-info: #6bf;
+    --hint-color-warning: #fd6;
+    --hint-color-danger: #f66;
+  }

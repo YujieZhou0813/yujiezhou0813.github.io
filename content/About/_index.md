@@ -1,28 +1,29 @@
 ---
 title: "About"
 weight: 30
+description: "Yujie Zhou (b. 1997, Chengdu, China) is a visual artist working with  photography, textiles, moving images, performance, and publishing. Zhou is based in Helsinki, Finland, where she completed her Master’s degree in Arts with a major in Photography and a minor in Textiles-Materials and Structures at Aalto University in 2023. Her work has been exhibited internationally, including at the Finnish Museum of Photography, Photographic Centre Peri, Photographic Gallery Hippolyte(Finland), BFoto Festival (Spain), FORMAT Photography Festival (UK), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023."
 ---
 
 
 **Yujie Zhou** (b. 1997, Chengdu, China) is a visual artist working with expanded photography, textile works, moving images, installation, and publishing. Through performativity and a decoded notion of language, her practice seeks to interrogate dominant historical narratives and power structures while reframing collective individuality. 
 
-Zhou is based in Helsinki, Finland, where she completed her Master’s degree in Arts with a major in Photography and a minor in Textiles-Materials and Structures at Aalto University in 2023. Her work has been exhibited internationally, including at the Finnish Museum of Photography, Photographic Centre Peri (Finland), Photographic Gallery Hippolyte(Finland), BFoto Festival (Spain), FORMAT Photography Festival (UK), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023. She is set to participate in the Saari Residency maintained by Kone Foundation in spring 2024.
+Zhou is based in Helsinki, Finland, where she completed her Master’s degree in Arts with a major in Photography and a minor in Textiles-Materials and Structures at Aalto University in 2023. Her work has been exhibited internationally, including at the Finnish Museum of Photography, Photographic Centre Peri, Photographic Gallery Hippolyte(Finland), BFoto Festival (Spain), FORMAT Photography Festival (UK), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023.
 
 
 **Solo Exhibitions**
 
-2023 *QWERTY*, **Photographic Gallery Hippolyte**, Helsinki, Finland
+2023 *QWERTY*, [**Photographic Gallery Hippolyte**](https://hippolyte.fi/en/nayttely/yujie-zhou/), Helsinki, Finland
 
-––––*Four Women*, **Photographic Centre Peri**, Turku, Finland
+––––*Four Women*, [**Photographic Centre Peri**](https://valokuvakeskusperi.fi/yujie-zhou-four-women-131-122), Turku, Finland
 
-2022	*Four Women*, **BFoto Festival**, Barbastro, Spain
+2022	*Four Women*, [**BFoto Festival**](https://www.bfoto.org/trabajos/yujie-zhou/), Barbastro, Spain
 
 
  **Selected Group Exhibitions**
 
-2023 *I Made You To Find Me*, alpha nova & galerie futura, **Berlin Art Week**, Berlin, Germany
+2023 *I Made You To Find Me*, [**Berlin Art Week**](https://berlinartweek.de/en/event/i-made-you-to-find-me/42dc209a-a8f1-4299-9d65-23562a97c3f3/?t=vernissage), alpha nova & galerie futura, Berlin, Germany
 
-–––– *MoA in Photography 23*, **Finnish Museum of Photography**, Helsinki, Finland
+–––– *MoA in Photography 23*, [**The Finnish Museum of Photography**](https://www.valokuvataiteenmuseo.fi/en/exhibitions/moa-photography-23), Helsinki, Finland
 
 –––– *Performing the Photobook*, **FORMAT Photography Festival**, Derby Museum, Derby, UK
 
@@ -56,7 +57,7 @@ Zhou is based in Helsinki, Finland, where she completed her Master’s degree in
 
 **Education**
 
-2021-2023	Master of Arts in Photography, minor in Textiles - Material and Structure
+2021-2023	Master of Arts in Photography, minor in Textiles - Materials and Structures
 
 ––––Aalto University, Finland
 
@@ -68,7 +69,7 @@ Zhou is based in Helsinki, Finland, where she completed her Master’s degree in
 
 **Working Experience**
 
-2023    Producer, Finnish Museum of Photography, Finland 
+2023    Producer, The Finnish Museum of Photography, Finland 
 
 2022	Research Assistant, Aalto University, Espoo, Finland
 
