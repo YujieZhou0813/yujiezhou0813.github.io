@@ -4,40 +4,54 @@ description: "Yujie Zhou (b. 1997, Chengdu, China) is a multidisciplinary artist
 
 ---
 
-![image of installation](/images/moa23_install.jpg)
+[![image of installation](/images/moa23_install.jpg)](https://yujiezhou.xyz/panoptic_segmentation/)
 ***<span style="color: #850000;">Panoptic Segmentation</span>***, Installation View at *MoA 23*, **Finnish Museum of Photography**, Finland, 2023
 
-![image of installation](/images/Hippolyte/hippolyte-23.jpg)
+[![image of installation](/images/Hippolyte/hippolyte-23.jpg)](https://yujiezhou.xyz/panoptic_segmentation/)
 ***<span style="color: #850000;">Panoptic Segmentation</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023
 
 
-
-![image of T](/images/Hippolyte/hippolyte-saveastext.jpg)
-***<span style="color: #850000;">Save as Text</span>***, from the series *Panoptic Segmentation*,  2023, Jacquard Weave, Wool and Cotton. Designed and woven by the artist.
-
-
-
-
-![image of E](/images/QWERTY/W/1989-1.png)
+[![image of E](/images/QWERTY/W/1989-1.png)](https://yujiezhou.xyz/panoptic_segmentation/1989-in-translation/)
 ***<span style="color: #850000;">1989 in Translation</span>***, from the series *Panoptic Segmentation*, 2022, Single-channel video, color, sound, 4:28 minutes
 
 
-![image of eclipse](/images/frontpage/eclipse.jpg )
+[![image of T](/images/Hippolyte/hippolyte-saveastext.jpg)](https://yujiezhou.xyz/panoptic_segmentation/save-as-text/)
+***<span style="color: #850000;">Save as Text</span>***, from the series *Panoptic Segmentation*,  2023, Jacquard Weave, Wool and Cotton. Designed and woven by the artist.
+
+
+[![image](/images/frontpage/flipbook.jpg)](https://yujiezhou.xyz/panoptic_segmentation/%CF%80/)
+***<span style="color: #850000;">π</span>***, from the series *Panoptic Segmentation*, 2023, Self-Published Artist book, Handmade, Edition of 25, Riso print, 143 x 81 x 12 mm.
+
+
+[![image](/images/frontpage/calendar-install.JPG)](https://yujiezhou.xyz/panoptic_segmentation/lunisolar-calendar/)
+***<span style="color: #850000;">Lunisolor Calendar</span>***,  from the series *Panoptic Segmentation*,  2022-2023, Performance, Letterpress print on 24 bound sheets of Chinese paper, 69 x 165 cm.
+
+
+[![image of eclipse](/images/frontpage/eclipse.jpg )](https://yujiezhou.xyz/panoptic_segmentation/eclipse/)
 ***<span style="color: #850000;">Eclipse</span>***,
 from the series *Panoptic Segmentation*, 2022, Archival pigment print, 120 x 80 cm.  
 
 
+[![image of shadow theater](/images/frontpage/theater-3.jpg )](https://yujiezhou.xyz/panoptic_segmentation/shadow-theater/)
+***<span style="color: #850000;">Shadow Theater</span>***, from the series *Panoptic Segmentation*, 2022-2023, Archival Pigment Print, Not Framed, Hand-Stitched and Double-Sided, 525 x 25cm.
 
-![image](/images/frontpage/ladder-3.jpg)
+
+[![image](/images/frontpage/ladder-3.jpg)](https://yujiezhou.xyz/panoptic_segmentation/ladder-and-wall/)
 ***<span style="color: #850000;">Ladder and Wall</span>***, from the series *Panoptic Segmentation*, 2022, Ceramics, 65 x 45 x15 cm.
 
 
-![image](/images/frontpage/calendar-install.JPG)
-***<span style="color: #850000;">Lunisolor Calendar</span>***,  from the series *Panoptic Segmentation*,  2022-2023, Performance, Letterpress print on 24 bound sheets of Chinese paper, 69 x 165 cm.
+
+[![image of us and them](/images/frontpage/us-and-them-1.jpg )](https://yujiezhou.xyz/panoptic_segmentation/us-and-them/)
+***<span style="color: #850000;">Us and Them</span>***, from the series *Panoptic Segmentation*, 2023, Self-Published Poster, edition of 150, Riso print, 59.4 x 42 cm. 
 
 
-![image](/images/frontpage/flipbook.jpg)
-***<span style="color: #850000;">π</span>***, from the series *Panoptic Segmentation*, 2023, Self-Published Artist book, Handmade, Edition of 25, Riso print, 143 x 81 x 12 mm.
+[![image of where are you from](/images/QWERTY/E/where-1.jpg)](https://yujiezhou.xyz/panoptic_segmentation/where-are-you-from/)
+***<span style="color: #850000;">Where are you from</span>***, from the series *Panoptic Segmentation*, 2022, Self-Published Photo Book, Handmade, Edition of 20.mRiso print, 186 mm x 126 mm x 7 mm.
+
+
+[![image of dictionary](/images/frontpage/hippolyte-21.jpg)](https://yujiezhou.xyz/panoptic_segmentation/dictionary-of-self-censorship/)
+***<span style="color: #850000;">Dictionary of Self-Censorship </span>***, from the series *Panoptic Segmentation*, 2023, On-site Collective Writing Project.
+
 
 ![image of fourwomen](/images/fourwomen_peri/peri.jpg)
 ***<span style="color: #850000;">Four Women</span>***, Installation View at *Four Women*, Solo Exhibition at **Photographic Centre Peri**, Turku Kunsthall, Finland, 2023

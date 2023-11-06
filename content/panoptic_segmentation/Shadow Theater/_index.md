@@ -6,7 +6,7 @@ weight: 40
 ### **<span style="color: #850000;">Shadow Theater</span>**
 
 from the series *Panoptic Segmentation*  
-2022-2023, Archival pigment print, Archival Pigment Print, Not Framed, Hand-Stitched and Double-Sided, 525 x 25cm.
+2022-2023, Archival Pigment Print, Not Framed, Hand-Stitched and Double-Sided, 525 x 25cm.
 
 Plato’s cave symbolizes our confined living environment, where only the projected shadows of truth are visible. Shadow theater, on the other hand, shares similarities with Plato’s cave, primarily showcasing shadows. However, Chinese Shadow Theater distinguishes itself through its dual perspective on shadows – the audience observes the shadows projected onto the screen, while the performers themselves also see the shadows from behind the screen. In the Chinese context, I perceive Plato's cave as a tunnel with dual perspectives, drawing a connection to VPN (Virtual Private Network) – interconnected tunnels within a shared host network that form VPN connections.
 
