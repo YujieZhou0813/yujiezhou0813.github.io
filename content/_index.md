@@ -1,6 +1,6 @@
 ---
 title: "Yujie Zhou"
-description: "Yujie Zhou (b. 1997, Chengdu, China) is a visual artist working with  photography, textiles, moving images, performance, and publishing. Zhou is based in Helsinki, Finland, where she completed her Master’s degree in Arts with a major in Photography and a minor in Textiles-Materials and Structures at Aalto University in 2023. Her work has been exhibited internationally, including at the Finnish Museum of Photography, Photographic Centre Peri, Photographic Gallery Hippolyte(Finland), BFoto Festival (Spain), FORMAT Photography Festival (UK), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023."
+description: "Yujie Zhou (b. 1997, Chengdu, China) is a visual artist working with  photography, textiles, moving images, performance, and publishing. Zhou is based in Helsinki, Finland, where she completed her Master’s degree in Arts with a major in Photography and a minor in Textiles-Materials and Structures at Aalto University in 2023. Her work has been exhibited internationally, including at the Finnish Museum of Photography, Photographic Centre Peri, Photographic Gallery Hippolyte(Finland), BFoto Festival (Spain), FORMAT Photography Festival (UK), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023. instagram:@yujie.jpg"
 
 ---
 
@@ -59,6 +59,14 @@ from the series *Panoptic Segmentation*, 2022, Archival pigment print, 120 x 80 
 
 ![image of fourwomen](/images/fourwomen_peri/peri2-1.jpg)
 ***<span style="color: #850000;">Four Women</span>***, Installation View at *Four Women*, Solo Exhibition at **Photographic Centre Peri**, Turku Kunsthall, Finland, 2023
+
+
+![image of fourwomen](/images/fourwomen-berlin/fourwomen-3.jpg)
+Installation View at *I Made You To Find Me* at **Berlin Art Week 2023**, alpha nova & galerie futura, Berlin, Germany, 2023
+
+
+![image of fourwomen](/images/fourwomen-berlin/fourwomen-1.jpg)
+Installation View at *I Made You To Find Me* at **Berlin Art Week 2023**, alpha nova & galerie futura, Berlin, Germany, 2023
 
 ![image of fourwomen](/images/fourwomen_bfoto/Bfoto-6.jpg)
 ***<span style="color: #850000;">Four Women</span>***,  Installation View at *Four Women*, Solo Exhibition at BFoto Festival, Barbastro, Spain, 2022
