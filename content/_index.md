@@ -53,20 +53,20 @@ from the series *Panoptic Segmentation*, 2022, Archival pigment print, 120 x 80 
 ***<span style="color: #850000;">Dictionary of Self-Censorship </span>***, from the series *Panoptic Segmentation*, 2023, On-site Collective Writing Project.
 
 
-![image of fourwomen](/images/fourwomen_peri/peri.jpg)
+[![image of fourwomen](/images/fourwomen_peri/peri.jpg)](https://yujiezhou.xyz/four_women/installation_view/)
 ***<span style="color: #850000;">Four Women</span>***, Installation View at *Four Women*, Solo Exhibition at **Photographic Centre Peri**, Turku Kunsthall, Finland, 2023
 
 
-![image of fourwomen](/images/fourwomen_peri/peri2-1.jpg)
+[![image of fourwomen](/images/fourwomen_peri/peri2-1.jpg)](https://yujiezhou.xyz/four_women/installation_view/)
 ***<span style="color: #850000;">Four Women</span>***, Installation View at *Four Women*, Solo Exhibition at **Photographic Centre Peri**, Turku Kunsthall, Finland, 2023
 
 
-![image of fourwomen](/images/fourwomen-berlin/fourwomen-3.jpg)
-Installation View at *I Made You To Find Me* at **Berlin Art Week 2023**, alpha nova & galerie futura, Berlin, Germany, 2023
+[![image of fourwomen](/images/fourwomen-berlin/fourwomen-3.jpg)](https://yujiezhou.xyz/four_women/installation_view/)
+***<span style="color: #850000;">Four Women</span>***, Installation View at *I Made You To Find Me* at **Berlin Art Week 2023**, alpha nova & galerie futura, Berlin, Germany, 2023
 
 
-![image of fourwomen](/images/fourwomen-berlin/fourwomen-1.jpg)
-Installation View at *I Made You To Find Me* at **Berlin Art Week 2023**, alpha nova & galerie futura, Berlin, Germany, 2023
+[![image of fourwomen](/images/fourwomen-berlin/fourwomen-1.jpg)](https://yujiezhou.xyz/four_women/installation_view/)
+***<span style="color: #850000;">Four Women</span>***, Installation View at *I Made You To Find Me* at **Berlin Art Week 2023**, alpha nova & galerie futura, Berlin, Germany, 2023
 
-![image of fourwomen](/images/fourwomen_bfoto/Bfoto-6.jpg)
+[![image of fourwomen](/images/fourwomen_bfoto/Bfoto-6.jpg)](https://yujiezhou.xyz/four_women/installation_view/)
 ***<span style="color: #850000;">Four Women</span>***,  Installation View at *Four Women*, Solo Exhibition at BFoto Festival, Barbastro, Spain, 2022

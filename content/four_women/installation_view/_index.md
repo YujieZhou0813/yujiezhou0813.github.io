@@ -3,6 +3,8 @@ title: "Installation Views"
 weight: 10
 ---
 
+### **<span style="color: #850000;">Installation Views</span>**
+
 ![image of fourwomen](/images/fourwomen_peri/peri.jpg)
 Installation View at *Four Women*, Solo Exhibition at **Photographic Centre Peri**, Turku Kunsthall, Finland, 2023
 

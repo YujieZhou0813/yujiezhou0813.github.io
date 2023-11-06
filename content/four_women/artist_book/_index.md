@@ -3,11 +3,11 @@ title: "Artist Book"
 weight: 30
 ---
 
-### ***<span style="color: #850000;">Four Women</span>***
+### **<span style="color: #850000;">Four Women</span>**
 2022, Self-Published Artist Book, Handmade.
 
  Photography, layout, printing, and binding: Yujie Zhou            
- Size: 230mm x 170mm x 45mm       
+ Size: 230 x 170 x 45mm     
  256 pages     
  Handmade box sewn with four books      
 

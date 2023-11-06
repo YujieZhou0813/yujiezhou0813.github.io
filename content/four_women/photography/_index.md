@@ -1,8 +1,9 @@
 ---
 title: "Photography"
-weight: 10
+weight: 15
 ---
-## Four Women     
+
+### **<span style="color: #850000;">Four Women</span>**
 
 2019-ongoing
 

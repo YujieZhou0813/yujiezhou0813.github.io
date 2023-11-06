@@ -3,7 +3,7 @@ title: "Ladder and Wall"
 weight: 41
 ---
 
-### ***<span style="color: #850000;">Ladder and Wall</span>***
+### **<span style="color: #850000;">Ladder and Wall</span>**
 
 from the series *Panoptic Segmentation*      
 2022, Ceramics, 65 x 45 x15 cm

@@ -6,7 +6,7 @@ weight: 46
 ### **<span style="color: #850000;">Where are you from</span>**
 from the series *Panoptic Segmentation*  
 2022, Self-Published Photo Book, Handmade, Edition of 20.   
-Riso print, 186 mm x 126 mm x 7 mm, 64 pages with one poster bound and folded.
+Riso print, 186 x 126 x 7 mm, 64 pages with one poster bound and folded.
 
 *Where are you from* leads on a fluid journey through shadow and light. It constructs the narrative of the complexity of emotion, desire, introspection, and instinct, which questions the understanding of our identity and belonging.
 
