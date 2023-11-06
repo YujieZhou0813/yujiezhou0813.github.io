@@ -14,44 +14,30 @@ Grown-up in China, I was taught that individuals subscribe to collective values,
 All four of us, through one another, have undergone 100 years of fast-paced changes in China. We have all been changed and engulfed by the times. My great-grandmother, my grandmother, and my mother never once dared claim they were feminists; still, embedded in me since my birth-given unisex name, how they raised me is who they’ve made me –a feminist, an artist. 
 
 
+[![image of fourwomen](/images/fourwomen_peri/peri.jpg)](https://yujiezhou.xyz/four_women/installation_view/)
+***<span style="color: #850000;">Four Women</span>***, Installation View at *Four Women*, Solo Exhibition at **Photographic Centre Peri**, Turku Kunsthall, Finland, 2023
 
-![image of fourwomen](/images/fourwomen.jpg)
+
+[![image of fourwomen](/images/fourwomen_peri/peri2-1.jpg)](https://yujiezhou.xyz/four_women/installation_view/)
+***<span style="color: #850000;">Four Women</span>***, Installation View at *Four Women*, Solo Exhibition at **Photographic Centre Peri**, Turku Kunsthall, Finland, 2023
 
 
-![image of fourwomen](/images/fourwomen2.jpg)
+[![image of fourwomen](/images/fourwomen-berlin/fourwomen-3.jpg)](https://yujiezhou.xyz/four_women/photography/)
+***<span style="color: #850000;">Grandma and laceleaf </span>***, from the series *Four Women*, Installation View at *I Made You To Find Me* at **Berlin Art Week 2023**, alpha nova & galerie futura, Berlin, Germany, 2023
 
-![image of fourwomen](/images/fourwomen3.jpg)
 
-![image of fourwomen](/images/fourwomen4.jpg)
+[![image of fourwomen](/images/fourwomen-berlin/fourwomen-1.jpg)](https://yujiezhou.xyz/four_women/photography/)
+***<span style="color: #850000;">I lay on great-grandma's bed</span>***, from the series *Four Women*, Installation View at *I Made You To Find Me* at **Berlin Art Week 2023**, alpha nova & galerie futura, Berlin, Germany, 2023
 
-![image of fourwomen](/images/fourwomen5.jpg)
+[![image of fourwomen](/images/fourwomen_bfoto/Bfoto-6.jpg)](https://yujiezhou.xyz/four_women/installation_view/)
+***<span style="color: #850000;">Grandma's tiktok</span>***, from the series *Four Women*, Installation View at *Four Women*, Solo Exhibition at BFoto Festival, Barbastro, Spain, 2022
 
-![image of fourwomen](/images/fourwomen6.jpg)
 
-![image of fourwomen](/images/fourwomen7.jpg)
+[![image of fourwomen](/images/four-drawers/four-drawers-3.jpg)](https://yujiezhou.xyz/four_women/photographic_sculptures/four-drawers/)
+***<span style="color: #850000;">Mom's Drawer</span>***, as part of ***<span style="color: #850000;">Four Drawers</span>***, from the series *Four Women*, 2019-2023, Pigment print on fabric, 100x100cm.
 
-![image of fourwomen](/images/fourwomen8.jpg)
+[![image of fourwomen](/images/four-drawers/wood-fourwomen-2.jpg)](https://yujiezhou.xyz/four_women/photographic_sculptures/clocks/)
+***<span style="color: #850000;">Clock</span>***, from the series *Four Women*, 2019-2022, Pigment print on wood, d30 x 5cm.
 
-![image of fourwomen](/images/fourwomen9.jpg)
-
-![image of fourwomen](/images/fourwomen10.jpg)
-
-![image of fourwomen](/images/fourwomen11.jpg)
-
-![image of fourwomen](/images/fourwomen12.jpg)
-
-![image of fourwomen](/images/fourwomen13.jpg)
-
-![image of fourwomen](/images/fourwomen14.jpg)
-
-![image of fourwomen](/images/fourwomen15.jpg)
-
-![image of fourwomen](/images/fourwomen16.jpg)
-
-![image of fourwomen](/images/fourwomen17.jpg)
-
-![image of fourwomen](/images/fourwomen18.jpg)
-
-![image of fourwomen](/images/fourwomen19.jpg)
-
-![image of fourwomen](/images/fourwomen20.jpg)
+[![image of fourwomen](/images/book12.jpg)](https://yujiezhou.xyz/four_women/artist_book/)
+***<span style="color: #850000;">Four Women</span>***, from the series *Four Women*, 2022, Self-Published Artist Book, Handmade.
