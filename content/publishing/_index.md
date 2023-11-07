@@ -3,7 +3,7 @@ title: "Publishing"
 weight: 25
 ---
 
-### ***<span style="color: #850000;">Publishing</span>***, 2021-ongoing
+### **<span style="color: #850000;">Publishing</span>**
 
 
 [![image of flipbook](/images/QWERTY/R/flipbook.jpg)](../panoptic_segmentation/%CF%80/)
