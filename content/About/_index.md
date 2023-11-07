@@ -25,7 +25,7 @@ Zhou is based in Helsinki, Finland, where she completed her Master’s degree in
 2022	*Booked*, **MUU Helsinki Contemporary Art Centre**, Helsinki, Finland   
 2022 *Wonder(ful)*, **Dipoli Gallery**, Espoo, Finland   
 2022 *Daughter of Chaos, Goddess of Night, Mother of all*, **V1 Gallery**, Aalto University, Finland   
-2021	*Growing from Moss*, **LUXELAKES·A4 Art Museum**, Chengdu, China
+2021	*Growing from Moss*, **A4 Art Museum**, Chengdu, China
 
 **Awards / Fellowships / Residencies**
 
@@ -52,8 +52,7 @@ Changchun University of Science and Technology, China (three years)
 
 2023    Producer, The Finnish Museum of Photography, Finland   
 2022	Research Assistant, Aalto University, Espoo, Finland   
-2021	Artistic Management, Deji Art Museum, Nanjing, China  
-2020	Project Assistant, Pengke Studio, Shanghai, China   
-2019	Curatorial project Intern, LUXELAKES·A4 Art Museum, Chengdu, China
+2021	Artistic Management, Deji Art Museum, Nanjing, China   
+2019	Project Assistant, A4 Residency Art Center — A4 Art Museum, Chengdu, China
           
 
