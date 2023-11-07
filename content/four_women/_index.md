@@ -2,6 +2,7 @@
 title: "Four Women"
 weight: 20
 ---
+
 ## Four Women     
 
 2019-ongoing
@@ -33,10 +34,10 @@ All four of us, through one another, have undergone 100 years of fast-paced chan
 ***<span style="color: #850000;">Grandma's tiktok</span>***, from the series *Four Women*, Installation View at *Four Women*, Solo Exhibition at BFoto Festival, Barbastro, Spain, 2022
 
 
-[![image of fourwomen](/images/four-drawers/four-drawers-3.jpg)](../four_women/photographic_sculptures/four-drawers/)
+[![image of fourwomen](/images/four-drawers/four-drawers-3.jpg)](../four_women/photographic_sculptures/)
 ***<span style="color: #850000;">Mom's Drawer</span>***, as part of ***<span style="color: #850000;">Four Drawers</span>***, from the series *Four Women*, 2019-2023, Pigment print on fabric, 100x100cm.
 
-[![image of fourwomen](/images/four-drawers/wood-fourwomen-2.jpg)](../four_women/photographic_sculptures/clocks/)
+[![image of fourwomen](/images/four-drawers/wood-fourwomen-2.jpg)](../four_women/photographic_sculptures/)
 ***<span style="color: #850000;">Clock</span>***, from the series *Four Women*, 2019-2022, Pigment print on wood, d30 x 5cm.
 
 [![image of fourwomen](/images/book12.jpg)](../four_women/artist_book/)
