@@ -27,10 +27,8 @@ In ancient Chinese language, the character for text （文）originated as the l
 
 
 ![image of textile](save-as-text.jpg)  
-***<span style="color: #850000;">Save as Text</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023
+***<span style="color: #850000;">Save as Text</span>***, Installation View at *QWERTY*, Solo Exhibition at [**Photographic Gallery Hippolyte**](https://hippolyte.fi/en/nayttely/yujie-zhou/), Helsinki, Finland, 2023
 <p>&nbsp;</p>
-
-
 
 
 
