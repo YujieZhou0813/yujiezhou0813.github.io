@@ -13,5 +13,5 @@ ins: [@yujie.jpg](https://www.instagram.com/yujie.jpg/)
 Artist Statement is available upon request.
 
 
-![image of fourwomen](/images/profile/profile-3.jpg)
-
+![image of me in saari](/images/profile/Yujie_Zhou_8.jpg)
+image credit: Jussi Virkkumaa / Saari Residence.

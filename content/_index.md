@@ -4,12 +4,18 @@ description: "Yujie Zhou (b. 1997, Chengdu, China) is a visual artist working wi
 
 ---
 
-[![image of installation](/images/Hippolyte/hippolyte-23.jpg)](https://yujiezhou.xyz/panoptic_segmentation/)
+
+
+[![image of installation](/images/Hippolyte/hippolyte-23.jpg)](../save_as_text/)  
+***<span style="color: #850000;">Save as Text</span>***, 2023-ongoing 
+
+
+[![image of installation](/images/moa23_install.jpg)](../panoptic_segmentation/)
 ***<span style="color: #850000;">Panoptic Segmentation</span>***, 2021-ongoing
 
 
 
-[![image of fourwomen](/images/fourwomen_peri/peri.jpg)](https://yujiezhou.xyz/four_women/)
+[![image of fourwomen](/images/fourwomen_peri/peri.jpg)](../four_women/)
 ***<span style="color: #850000;">Four Women</span>***, 2019-2023
 
 

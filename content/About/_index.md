@@ -5,13 +5,15 @@ description: "Yujie Zhou (b. 1997, Chengdu, China) is a visual artist working wi
 ---
 
 
-**Yujie Zhou** (b. 1997, Chengdu, China) is a visual artist working with expanded photography, textile works, moving images, installation, and publishing. Through performativity and a decoded notion of language, her practice seeks to interrogate dominant historical narratives and power structures while reframing collective individuality. 
+**Yujie Zhou** (b.1997, China) is a visual artist who navigates performativity and a decoded notion of language through expanded photography, textiles, moving images, installation, and publishing. Based on the juxtaposition between their nationalist upbringing and their current life in Finland, their practice interrogates dominant historical narratives and power structures while reframing collective individuality.
 
-Zhou is based in Helsinki, Finland, where she completed her Master’s degree in Arts with a major in Photography and a minor in Textiles-Materials and Structures at Aalto University in 2023. Her work has been exhibited internationally, including at the Finnish Museum of Photography, Photographic Centre Peri, Photographic Gallery Hippolyte(Finland), BFoto Festival (Spain), FORMAT Photography Festival (UK), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023.
+Zhou has been based in Helsinki, Finland since 2021. They completed their Master’s Degree in Arts with a Major in Photography and a Minor in Textiles-Materials and Structures at Aalto University in 2023. They have exhibited their work internationally, including at the Finnish Museum of Photography, Photographic Centre Peri, Photographic Gallery Hippolyte (Finland), BFoto Festival (Spain), FORMAT Photography Festival (UK), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023.
 
+Currently, Zhou is a 2024 Saari Residence Fellow maintained by the Kone Foundation and an 11-month Artist Resident at the Helsinki International Artist Program(HIAP) in 2024.
 
 **Solo Exhibitions**
 
+2024 (upcoming) Galleria Taidekeskus Mältinranta, Tampere, Finland     
 2023 *QWERTY*, [**Photographic Gallery Hippolyte**](https://hippolyte.fi/en/nayttely/yujie-zhou/), Helsinki, Finland    
 2023 *Four Women*, [**Photographic Centre Peri**](https://valokuvakeskusperi.fi/yujie-zhou-four-women-131-122), Turku, Finland     
 2022	*Four Women*, [**BFoto Festival**](https://www.bfoto.org/trabajos/yujie-zhou/), Barbastro, Spain
@@ -27,32 +29,31 @@ Zhou is based in Helsinki, Finland, where she completed her Master’s degree in
 2022 *Daughter of Chaos, Goddess of Night, Mother of all*, **V1 Gallery**, Aalto University, Finland   
 2021	*Growing from Moss*, **A4 Art Museum**, Chengdu, China
 
-**Awards / Fellowships / Residencies**
+**Selected Awards / Fellowships**
 
-2024	(upcoming) Saari Residency-Kone Foundation, Finland      
-2024 (upcoming) Serlachius Residency, Finland  
-2023	Plat(t)form, Fotomuseum Winterthur, Switzerland  
+
+2024 [**PhMuseum 2024 Photography Grant**](https://phmuseum.com/submissions/save-as-text), Main Priza, Shortlist     
+2024 [**FUTURES Photography 2024**](https://www.futures-photography.com/artists/yujie-zhou), nominated by Fotogalleriet, Oslo, Norway        
+2023 [**Plat(t)form, Fotomuseum Winterthur**](https://www.fotomuseum.ch/en/photographer-post/yujie-zhou/?filter[]=photographer_year%3A12852&_gl=1*67bvli*_up*MQ..*_ga*MTk0MDM4MDM2My4xNzEyNzY3NDE1*_ga_8DKMYL9P9X*MTcxMjc2NzQxNS4xLjAuMTcxMjc2NzQyMi4wLjAuMA..), Switzerland  
 2023 New Gaze 4,Vontobel Contemporary Photography Sponsorship Prize, Finalist, Zürich, Switzerland  
 2022 EMERGENTE 2022 Award, BFoto Festival, Spain  
 2022 The 4th 1839 Photography Prize, Finalist, China  
+2021 Aalto University full scholarship
+
+**Residencies**
+
+2024 [**Saari Residency-Kone Foundation**](https://koneensaatio.fi/en/saari-residence/residency-artists/yujie-zhou/), Finland  
+2024 [**HIAP, 11-month Artist in Residency**](https://www.hiap.fi/resident/yujie-zhou/), Helsinki, Finland     
 2022 DAMA@Narva Art Residency, Narva, Estonia   
 2021 Yeshan Art Residency, Fuzhou, China  
-2021 Aalto University full scholarship
 
 **Education**
 
-2021-2023	Master of Arts in Photography, minor in Textiles - Materials and Structures  
+2021-2023	Master of Arts in Photography, Minor in Textiles - Materials and Structures  
 Aalto University, Finland
 
 2015-2019	Bachelor of Science, Mechanical Engineering (3+1 program)   
 University of Illinois Chicago, US (one year)   
 Changchun University of Science and Technology, China (three years)
 
-**Working Experience**
-
-2023    Producer, The Finnish Museum of Photography, Finland   
-2022	Research Assistant, Aalto University, Espoo, Finland   
-2021	Artistic Management, Deji Art Museum, Nanjing, China   
-2019	Project Assistant, A4 Residency Art Center — A4 Art Museum, Chengdu, China
-          
 

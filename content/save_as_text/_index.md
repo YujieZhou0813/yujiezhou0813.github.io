@@ -1,33 +1,30 @@
 ---
 title: "Save as Text"
-weight: 20
+weight: 5
 ---
 
 
 ### **<span style="color: #850000;">Save as Text</span>**
 
-from the series *Panoptic Segmentation*        
-2023, Jacquard Weave, Wool and Cotton. Designed and woven by the artist, each work is a unique piece.
+   
+2023-ongoing     
+Jacquard Weave, Wool and Cotton. Designed and woven by the artist, each work is a unique piece.
 
-The word *text* finds its origins in Latin words such as *textum* (fiber), *textus* (fabric, material, or texture), and *texere* (weaving), establishing a profound connection to textile and weaving processes. *Save as Text* employs weaving as a form of writing. Inspired by various methods of translation used by anonymous netizens to make text illegible and evade censorship, weaving becomes a means for me to rewrite censored texts, giving them a new form that couldn't exist in their original written state.
+***Save as Text*** employs weaving as a form of writing to circumnavigate censorship in the contemporary era. Inspired by creative translation methods used by anonymous netizens on Chinese social media to evade censorship while dismantling propaganda, weaving is the artist’s medium to rewrite censored texts. By utilizing glitches in photography and the image-making process, this medium disrupts and preserves the censored texts as a new form of evidence that cannot exist in their original state.
 
-In the ancient Chinese language –Oracle Bone Script, the word text (文, 'wén') was depicted as a person’s body with marks and drawings on it, symbolizing the act of writing and carving on the body itself. Involving significant physical labor and repetition of body movement during the weaving process, *Save as Text* also serves as a healing process for me, allowing the generation of new body memories that symbolize remembrance, resistance, and the refusal to forget.
+In ancient Chinese language, the character for text （文）originated as the literal depiction of a tattooed human body.  Paralleling the permanence of tattoos, the Jacquard Weave materializes the ephemeral nature of social media content into tangible, long-lasting forms. Though many present-day whistleblowers have “disappeared” along with their digital footprint, *Save as Text* memorializes their impact and bravery, continuing on their legacy for sharing truth.
 
+
+![image of installation](/images/Hippolyte/hippolyte-23.jpg)
 
 ![image of textile](/images/Hippolyte/hippolyte.jpg)  
-***<span style="color: #850000;">Save as Text</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023
 
-<p>&nbsp;</p>
 
 ![image of textile](/images/Hippolyte/hippolyte-30.jpg)  
-***<span style="color: #850000;">Save as Text</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023
 
-<p>&nbsp;</p>
 
 ![image of textile](hippolyte-38.jpg) 
-***<span style="color: #850000;">Save as Text</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023
 
-<p>&nbsp;</p>
 
 ![image of textile](save-as-text.jpg)  
 ***<span style="color: #850000;">Save as Text</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023

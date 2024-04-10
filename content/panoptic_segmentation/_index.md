@@ -16,17 +16,8 @@ Artworks from the series *Panoptic Segmentation*, 2022-2023, Medium: Mixed - Pho
 ![image of installation](/images/moa23_install.jpg)
 ***<span style="color: #850000;">Panoptic Segmentation</span>***, Installation View at *MoA 23*, **Finnish Museum of Photography**, Finland, 2023
 
-![image of installation](/images/Hippolyte/hippolyte-23.jpg)
-***<span style="color: #850000;">Panoptic Segmentation</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023
-
-
 [![image of E](/images/QWERTY/W/1989-1.png)](../panoptic_segmentation/1989-in-translation/)
 ***<span style="color: #850000;">1989 in Translation</span>***, from the series *Panoptic Segmentation*, 2022, Single-channel video, color, sound, 4:28 minutes
-
-
-[![image of T](/images/Hippolyte/hippolyte-saveastext.jpg)](../panoptic_segmentation/save-as-text/)
-***<span style="color: #850000;">Save as Text</span>***, from the series *Panoptic Segmentation*,  2023, Jacquard Weave, Wool and Cotton. Designed and woven by the artist.
-
 
 [![image](/images/frontpage/flipbook.jpg)](../panoptic_segmentation/%CF%80/)
 ***<span style="color: #850000;">π</span>***, from the series *Panoptic Segmentation*, 2023, Self-Published Artist book, Handmade, Edition of 25, Riso print, 143 x 81 x 12 mm.
