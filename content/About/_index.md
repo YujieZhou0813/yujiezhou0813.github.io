@@ -23,8 +23,8 @@ Currently, Zhou is a 2024 Saari Residence Fellow maintained by the Kone Foundati
 
 2023 *I Made You To Find Me*, [**Berlin Art Week**](https://berlinartweek.de/en/event/i-made-you-to-find-me/42dc209a-a8f1-4299-9d65-23562a97c3f3/?t=vernissage), alpha nova & galerie futura, Berlin, Germany  
 2023 *MoA in Photography 23*, [**The Finnish Museum of Photography**](https://www.valokuvataiteenmuseo.fi/en/exhibitions/moa-photography-23), Helsinki, Finland   
-2023 *Performing the Photobook*, **FORMAT Photography Festival**, Derby Museum, Derby, UK 
-2023 *Tides*, **Espoo Culture Center**, Espoo, Finland
+2023 *Performing the Photobook*, **FORMAT Photography Festival**, Derby Museum, Derby, UK       
+2023 *Tides*, **Espoo Culture Center**, Espoo, Finland      
 2022	*Booked*, **MUU Helsinki Contemporary Art Centre**, Helsinki, Finland   
 2022 *Wonder(ful)*, **Dipoli Gallery**, Espoo, Finland   
 2022 *Daughter of Chaos, Goddess of Night, Mother of all*, **V1 Gallery**, Aalto University, Finland   
