@@ -28,6 +28,6 @@ Preview of *1989 in Translation*. For the full video, please email me.
 
 ![image of 1989](/images/Hippolyte/hippolyte-1989.jpg)  
 ***<span style="color: #850000;">1989 in Translation</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023      
-image credit: Milla Talassalo
+image credit: Milla Talassalo / Hippolyte
   
 

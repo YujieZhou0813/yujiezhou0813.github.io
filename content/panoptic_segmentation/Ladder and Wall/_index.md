@@ -19,5 +19,5 @@ In *Ladder and Wall*, I purposefully trigger a fissure as to pierce the Great Fi
 
 ![image of ladder](ladder-3.jpg) 
 ***<span style="color: #850000;">Ladder and Wall</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023      
-image credit: Milla Talassalo
+image credit: Milla Talassalo / Hippolyte
 

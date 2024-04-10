@@ -29,4 +29,4 @@ Photography in Chinese essentially means 'capturing shadows,' while the Latin et
 
 ![image of eclipse](hippolyte-36.jpg)  
 ***<span style="color: #850000;">Eclipse</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023      
-image credit: Milla Talassalo
+image credit: Milla Talassalo / Hippolyte

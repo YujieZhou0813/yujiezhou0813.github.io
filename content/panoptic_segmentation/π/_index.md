@@ -32,6 +32,6 @@ In the book, the traditional Japanese binding stitching was altered as to have o
 
 ![image](hippolyte-32.jpg) 
 ***<span style="color: #850000;">π</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023     
-image credit: Milla Talassalo
+image credit: Milla Talassalo / Hippolyte
 
   
