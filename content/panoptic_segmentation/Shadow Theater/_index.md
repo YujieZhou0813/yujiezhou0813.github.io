@@ -17,17 +17,13 @@ In *Shadow Theater,* I traversed a physical tunnel rather than a virtual VPN tun
 <p>&nbsp;</p>
 
 ![image of 1989](theater-1.jpg)  
-***<span style="color: #850000;">Shadow Theater</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023
-
-<p>&nbsp;</p>
 
 ![image of 1989](theater-2.jpg)  
-***<span style="color: #850000;">Shadow Theater</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023
 
-
-<p>&nbsp;</p>
 
 ![image of 1989](theater-3.jpg)  
-***<span style="color: #850000;">Shadow Theater</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023
+***<span style="color: #850000;">Shadow Theater</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023       
+image credit: Milla Talassalo
+
 
   

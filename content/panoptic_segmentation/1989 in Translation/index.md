@@ -23,11 +23,11 @@ Preview of *1989 in Translation*. For the full video, please email me.
 
 
 ![image of 1989](/images/QWERTY/W/1989-install.jpg)  
-*<span style="color: #850000;">1989 in Translation</span>*, Installation View at *MoA in Photography 23*, **Finnish Museum of Photography**, Finland, 2023   
+***<span style="color: #850000;">1989 in Translation</span>***, Installation View at *MoA in Photography 23*, **Finnish Museum of Photography**, Finland, 2023   
 <p>&nbsp;</p>
 
 ![image of 1989](/images/Hippolyte/hippolyte-1989.jpg)  
-*<span style="color: #850000;">1989 in Translation</span>*, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023
-
+***<span style="color: #850000;">1989 in Translation</span>***, Installation View at *QWERTY*, Solo Exhibition at **Photographic Gallery Hippolyte**, Finland, 2023      
+image credit: Milla Talassalo
   
 
