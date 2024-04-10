@@ -49,7 +49,7 @@ Currently, Zhou is a 2024 Saari Residence Fellow maintained by the Kone Foundati
 
 **Education**
 
-2021-2023	Master of Arts in Photography, Minor in Textiles - Materials and Structures  
+2021-2023	Master of Arts, Major in Photography, Minor in Textiles—Materials and Structures  
 Aalto University, Finland
 
 2015-2019	Bachelor of Science, Mechanical Engineering (3+1 program)   
