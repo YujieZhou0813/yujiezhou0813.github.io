@@ -5,7 +5,7 @@ description: "Yujie Zhou (b. 1997, Chengdu, China) is a visual artist working wi
 ---
 
 
-**Yujie Zhou** (b.1997, China) is a visual artist who navigates performativity and a decoded notion of language through expanded photography, textiles, moving images, installation, and publishing. Based on the juxtaposition between their nationalist upbringing and their current life in Finland, their practice interrogates dominant historical narratives and power structures while reframing collective individuality.
+**Yujie Zhou** (b.1997, China) is a visual artist who navigates performativity and a decoded notion of language through photography, textiles, moving images, installation, and publishing. Based on the juxtaposition between their nationalist upbringing and their current life in Finland, their practice interrogates dominant historical narratives and power structures while reframing collective individuality.
 
 Zhou has been based in Helsinki, Finland since 2021. They completed their Master’s Degree in Arts with a Major in Photography and a Minor in Textiles-Materials and Structures at Aalto University in 2023. They have exhibited their work internationally, including at the Finnish Museum of Photography, Photographic Centre Peri, Photographic Gallery Hippolyte (Finland), BFoto Festival (Spain), FORMAT Photography Festival (UK), and alpha nova & galerie futura (Germany) as part of Berlin Art Week 2023.
 
