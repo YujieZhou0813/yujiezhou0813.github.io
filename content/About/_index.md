@@ -13,7 +13,7 @@ Currently, Zhou is a 2024 Saari Residence Fellow maintained by the Kone Foundati
 
 **Solo Exhibitions**
 
-2024 (upcoming) Galleria Taidekeskus Mältinranta, Tampere, Finland     
+2024 (upcoming) **Galleria Taidekeskus Mältinranta**, Tampere, Finland     
 2023 *QWERTY*, [**Photographic Gallery Hippolyte**](https://hippolyte.fi/en/nayttely/yujie-zhou/), Helsinki, Finland    
 2023 *Four Women*, [**Photographic Centre Peri**](https://valokuvakeskusperi.fi/yujie-zhou-four-women-131-122), Turku, Finland     
 2022	*Four Women*, [**BFoto Festival**](https://www.bfoto.org/trabajos/yujie-zhou/), Barbastro, Spain
