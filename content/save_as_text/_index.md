@@ -17,7 +17,6 @@ In ancient Chinese language, the character for text （文）originated as the l
 
 ![image of installation](/images/Hippolyte/hippolyte-23.jpg)
 
-![image of textile](/images/Hippolyte/hippolyte.jpg)  
 
 
 ![image of textile](/images/Hippolyte/hippolyte-30.jpg)  
@@ -32,33 +31,8 @@ In ancient Chinese language, the character for text （文）originated as the l
 
 
 
-
-
-![image of textile](save-as-text=13.jpg)  
- **<span style="color: #850000;">Save as Text — The Whistle-Giver in Braille</span>**            
-2023, Jacquard Weave, Handwoven, Wool and Cotton, 210 x 110 cm.
-
- <p>&nbsp;</p>
-
-
-![image of textile](save-as-text=14.jpg)  
-**<span style="color: #850000;">Save as Text —The Whistle-Giver in Oracle Bone Script</span>**            
-2023, Jacquard Weave, Wool and Cotton, 260 x 110 cm.
-
- <p>&nbsp;</p>
-  
-
-
-![image of textile](save-as-text=18.jpg)  
-**<span style="color: #850000;">Save as Text — The Whistle-Giver in Morse Code</span>**            
-2023, Jacquard Weave, Wool and Cotton, 310 x 110 cm.
-
- <p>&nbsp;</p>
-  
-
-
 ![image of textile](save-as-text=16.jpg)  
-**<span style="color: #850000;">Save as Text — 'A Letter from Tehran'in Nüshu (women's script) </span>**            
+**<span style="color: #850000;">'A Letter from Tehran'in Nüshu (Women's Script) </span>**            
 2023, Jacquard Weave, Handwoven, Wool and Cotton, 240 x 110 cm.
 
  <p>&nbsp;</p>
@@ -66,13 +40,41 @@ In ancient Chinese language, the character for text （文）originated as the l
 
 
 ![image of textile](save-as-text=17.jpg)  
-**<span style="color: #850000;">Save as Text — Voice of April </span>**            
+**<span style="color: #850000;">Voice of April </span>**            
 2023, Jacquard Weave, Wool and Cotton, 280 x 110 cm.
+
+ <p>&nbsp;</p>
+
+
+
+
+
+![image of textile](save-as-text=14.jpg)  
+**<span style="color: #850000;">The Whistleblower in Oracle Bone Script</span>**            
+2023, Jacquard Weave, Wool and Cotton, 260 x 110 cm.
+
+ <p>&nbsp;</p>
+  
+
+![image of textile](save-as-text=13.jpg)  
+ **<span style="color: #850000;">The Whistleblower in Braille</span>**            
+2023, Jacquard Weave, Handwoven, Wool and Cotton, 210 x 110 cm.
+
+ <p>&nbsp;</p>
+
+
+
+![image of textile](save-as-text=18.jpg)  
+**<span style="color: #850000;">The Whistleblower in Morse Code</span>**            
+2023, Jacquard Weave, Wool and Cotton, 310 x 110 cm.
 
  <p>&nbsp;</p>
   
 
 
+  
+
+
 ![image of textile](save-as-text=15.jpg)  
-**<span style="color: #850000;">Save as Text — In the End, We Lost Our Language </span>**            
+**<span style="color: #850000;">In the End, We Lost Our Language </span>**            
 2023, Jacquard Weave, Wool and Cotton, 310 x 110 cm.
