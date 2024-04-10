@@ -36,7 +36,8 @@ Currently, Zhou is a 2024 Saari Residence Fellow maintained by the Kone Foundati
 **Selected Awards / Fellowships**    
 2024 [**PhMuseum 2024 Photography Grant**](https://phmuseum.com/submissions/save-as-text), Main Priza, Shortlist     
 2024 [**FUTURES Photography 2024**](https://www.futures-photography.com/artists/yujie-zhou), nominated by Fotogalleriet, Oslo, Norway        
-2023 [**Plat(t)form, Fotomuseum Winterthur**](https://www.fotomuseum.ch/en/photographer-post/yujie-zhou/?filter[]=photographer_year%3A12852&_gl=1*67bvli*_up*MQ..*_ga*MTk0MDM4MDM2My4xNzEyNzY3NDE1*_ga_8DKMYL9P9X*MTcxMjc2NzQxNS4xLjAuMTcxMjc2NzQyMi4wLjAuMA..), Switzerland  
+2023 [**Plat(t)form, Fotomuseum Winterthur**](https://www.fotomuseum.ch/en/photographer-post/yujie-zhou/?filter[]=photographer_year%3A12852&_gl=1*67bvli*_up*MQ..*_ga*MTk0MDM4MDM2My4xNzEyNzY3NDE1*_ga_8DKMYL9P9X*MTcxMjc2NzQxNS4xLjAuMTcxMjc2NzQyMi4wLjAuMA..), Switzerland     
+2023 [**Young Artist Grant**](https://www.suomentaideyhdistys.fi/nuorten-taiteilijoiden-apurahat?lang=en), Finnish Art Sociery, Finland     
 2023 New Gaze 4,Vontobel Contemporary Photography Sponsorship Prize, Finalist, Zürich, Switzerland  
 2022 EMERGENTE 2022 Award, BFoto Festival, Spain  
 2022 The 4th 1839 Photography Prize, Finalist, China  
