@@ -66,19 +66,3 @@ Installation View at *Four Women*, Solo Exhibition at **BFoto Festival**, Barbas
 
 ![image of fourwomen](/images/fourwomen_bfoto/Bfoto-6.jpg)
 Installation View at *Four Women*, Solo Exhibition at **BFoto Festival**, Barbastro, Spain, 2022
-
-![image of fourwomen](/images/fourwomen_bfoto/Bfoto-2.jpg)
-Installation View at *Four Women*, Solo Exhibition at **BFoto Festival**, Barbastro, Spain, 2022
-
-
-
-[![image of fourwomen](/images/v1-1.jpg)](https://yujiezhou.xyz/four_women/installation_view/group-exhibitions/)    
-Installation View at V1 Gallery, Espoo, Finland, 2022
-
-
-![image of fourwomen](/images/fourwomen_v1/v1-2.jpg)
-Installation View at V1 Gallery, Espoo, Finland, 2022
-
-[![image of fourwomen](/images/dipoli1.jpg)](https://yujiezhou.xyz/four_women/installation_view/group-exhibitions/)    
-Installation View at Dipoli Gallery, Espoo, Finland, 2022
-

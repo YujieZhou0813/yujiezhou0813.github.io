@@ -1,6 +1,7 @@
 ---
 title: "Four Women"
 weight: 20
+bookCollapseSection: true
 ---
 
 ## Four Women     

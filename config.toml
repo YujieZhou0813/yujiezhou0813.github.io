@@ -9,7 +9,7 @@ theme = "hugo-book"
   bookToC = false
   BookSearch = false
 
+
 [markup]
     [markup.goldmark.renderer]
       unsafe = true
-

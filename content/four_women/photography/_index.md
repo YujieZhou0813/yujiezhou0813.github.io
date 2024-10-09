@@ -5,7 +5,7 @@ weight: 15
 
 ### **<span style="color: #850000;">Four Women</span>**
 
-2019-ongoing
+2019-2023
 
 
 Four Women started in 2019, two years after my great-grandmother died. At that time, I started to go back to her house; where she used to live, and where we used to live together, to rediscover her stories. Giving life back to my grandmother’s past, rediscovering the stories of the women in my family I grew up with before they even became mothers and grandmothers –captivated by who they are and were as individuals.

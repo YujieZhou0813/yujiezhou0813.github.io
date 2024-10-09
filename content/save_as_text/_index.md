@@ -1,13 +1,13 @@
 ---
 title: "Save as Text"
-weight: 5
+weight: 2
 ---
 
 
 ### **<span style="color: #850000;">Save as Text</span>**
 
    
-2023-ongoing     
+2023-2024     
 Jacquard Weave, Wool and Cotton. Designed and woven by the artist, each work is a unique piece.
 
 ***Save as Text*** employs weaving as a form of writing to circumnavigate censorship in the contemporary era. Inspired by creative translation methods used by anonymous netizens on social media to evade censorship while dismantling propaganda, weaving is the artist’s medium to rewrite censored texts. By utilizing glitches in photography and the image-making process, this medium disrupts and preserves the censored texts as a new form of evidence that cannot exist in their original state.

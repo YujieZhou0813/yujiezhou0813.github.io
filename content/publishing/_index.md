@@ -1,6 +1,7 @@
 ---
 title: "Publishing"
 weight: 25
+draft: true 
 ---
 
 ### **<span style="color: #850000;">Publishing</span>**

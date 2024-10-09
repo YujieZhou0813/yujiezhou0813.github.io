@@ -1,31 +1,18 @@
 ---
 title: "Panoptic Segmentation"
 weight: 10
+bookCollapseSection: true
 ---
 
 ## Panoptic Segmentation
-2021-ongoing
+2022-2024, Medium: Photography, video, performance, publishing, and installation. 
 
 Panoptic Segmentation refers to an image segmentation method in computer vision that allows machines to separate objects into segments. From a socio-political perspective, this method draws a parallel with the panopticon, a disciplinary mechanism based on continuous surveillance. Both systems operate similarly by breaking down objects into segmented components.
 
 From a self-reflective critical stance, my practice seeks to identify, unravel and decode the mechanics behind power structures in order to tackle the invisible. I am eager to question the relationship between a collective political identity and our experiences as individuals. All with the purpose of deconstructing the notion of language so as to tear apart signifiers and reconstruct meaning.
 
-Artworks from the series *Panoptic Segmentation*, 2022-2023, Medium: Mixed - Photography, video, performance, printmaking, and publishing. 
 
 
-![image of installation](/images/moa23_install.jpg)
-***<span style="color: #850000;">Panoptic Segmentation</span>***, Installation View at *MoA 23*, **Finnish Museum of Photography**, Helsinki, Finland, 2023
-<p>&nbsp;</p>
-
-
-![image of installation](/images/Hippolyte/hippolyte-1989.jpg)
-***<span style="color: #850000;">Panoptic Segmentation</span>***, Installation View at *QWERTY*, Solo Exhibition at [**Photographic Gallery Hippolyte**](https://hippolyte.fi/en/nayttely/yujie-zhou/), Helsinki, Finland, 2023
-<p>&nbsp;</p>  
-
-
-[![image of E](/images/QWERTY/W/1989-1.png)](../panoptic_segmentation/1989-in-translation/)
-***<span style="color: #850000;">1989 in Translation</span>***, from the series *Panoptic Segmentation*, 2022, Single-channel video, color, sound, 4:28 minutes
-<p>&nbsp;</p>
 
 
 [![image](/images/frontpage/flipbook.jpg)](../panoptic_segmentation/%CF%80/)
@@ -34,27 +21,30 @@ Artworks from the series *Panoptic Segmentation*, 2022-2023, Medium: Mixed - Pho
 
 
 
+[![image of us and them](/images/frontpage/us-and-them-1.jpg )](../panoptic_segmentation/us-and-them/)
+***<span style="color: #850000;">Us and Them</span>***, from the series *Panoptic Segmentation*, 2023, Self-Published Poster, edition of 150, Riso print, 59.4 x 42 cm. 
+<p>&nbsp;</p>
 
 
 
-
-[![image of eclipse](/images/frontpage/eclipse.jpg )](../panoptic_segmentation/eclipse/)
+[![image of eclipse](hippolyte-36.jpg )](../panoptic_segmentation/eclipse/)
 ***<span style="color: #850000;">Eclipse</span>***,
 from the series *Panoptic Segmentation*, 2022, Archival pigment print, 120 x 80 cm.  
 <p>&nbsp;</p>
 
+
+[![image](/images/shuanghuang-1.png)](../panoptic_segmentation/shuang-huang/) 
+***<span style="color: #850000;">Eye Exercises</span>***,
+Yujie Zhou and Christy Poinsettia Ma, 2024, Two-Channel Video, Color, Sound, 12:16 minutes.
+
+
+<p>&nbsp;</p>
 
 
 [![image of shadow theater](/images/frontpage/theater-3.jpg )](../panoptic_segmentation/shadow-theater/)
 ***<span style="color: #850000;">Shadow Theater</span>***, from the series *Panoptic Segmentation*, 2022-2023, Archival Pigment Print, Not Framed, Hand-Stitched and Double-Sided, 525 x 25cm.
 <p>&nbsp;</p>
 
-
-
-
-[![image of us and them](/images/frontpage/us-and-them-1.jpg )](../panoptic_segmentation/us-and-them/)
-***<span style="color: #850000;">Us and Them</span>***, from the series *Panoptic Segmentation*, 2023, Self-Published Poster, edition of 150, Riso print, 59.4 x 42 cm. 
-<p>&nbsp;</p>
 
 
 [![image](/images/frontpage/calendar-install.JPG)](../panoptic_segmentation/lunisolar-calendar/)
@@ -64,6 +54,18 @@ from the series *Panoptic Segmentation*, 2022, Archival pigment print, 120 x 80 
 
 [![image](/images/frontpage/ladder-3.jpg)](../panoptic_segmentation/ladder-and-wall/)
 ***<span style="color: #850000;">Ladder and Wall</span>***, from the series *Panoptic Segmentation*, 2022, Ceramics, 65 x 45 x15 cm.
+<p>&nbsp;</p>
+
+
+[![image](invisible-1.jpg)](../panoptic_segmentation/invisible/)     
+***<span style="color: #850000;">Making Myself Invisible</span>***, from the series *Panoptic Segmentation*, 2023, 105 x 105 cm, Jacquard Weave, Handwoven, Wool and Cotton.
+
+
+<p>&nbsp;</p>
+
+
+[![image](barks-2.jpg)](../panoptic_segmentation/yellow_river/)
+***<span style="color: #850000;">Yellow River</span>***, from the series *Panoptic Segmentation*, 2023-2024, Site-specific installation, Sublimation print on barks.
 <p>&nbsp;</p>
 
 
