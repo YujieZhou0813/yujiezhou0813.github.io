@@ -14,13 +14,6 @@ As modern simplified Chinese has undergone changes in its form and adopted the P
 
 Rather than being a conventional calendar, I modified it to be closed by binding both sides of the paper together. Each day, counting from the Chinese Lunar New Year in 2023, I tore off one sheet of paper at the exhibition site. This act of tearing off serves as a way to question and attempt to understand the meaning of 明 (light and to understand) from the origin of language.
 
-
-{{<vimeo 881462608 >}}
-
-***<span style="color: #850000;">Lunisolar Calendar</span>***, Documentation video of performance, 2023
-
-<p>&nbsp;</p>
-
 ![image of calendar](/images/frontpage/calendar-install.JPG)  
 
 ![image](calendar.jpg)    

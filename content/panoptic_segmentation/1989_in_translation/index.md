@@ -14,14 +14,7 @@ weight: 15
 
 
 
-{{<vimeo 881425752 >}}
-
-
-<p>&nbsp;</p>
-
-
-
-[![image](/images/QWERTY/W/1989-1.png)](../panoptic_segmentation/1989-in-translation/)
+![image](/images/QWERTY/W/1989-1.png)
 ***<span style="color: #850000;">1989 in Translation</span>***, video still.
 <p>&nbsp;</p>
 

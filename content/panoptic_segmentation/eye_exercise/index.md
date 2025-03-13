@@ -15,9 +15,6 @@ Some studies showed that about 90% of Chinese children didn’t perform these ex
 
 
 
-{{<vimeo 1003852136 >}}
-
-
 
 
 ![image](eye_exercise-1.jpg)  
