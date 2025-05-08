@@ -56,10 +56,19 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Upload artifact
+
+      - name: Preload upload-artifact
         uses: actions/upload-artifact@v3.1.3
         with:
-          path: ./public
+        name: preload
+        path: README.md  # or any small dummy file
+        if-no-files-found: ignore
+
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1.0.8
+        with:
+        path: ./public
 
   # Deployment job
   deploy:
