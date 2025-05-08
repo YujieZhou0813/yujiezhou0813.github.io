@@ -5,11 +5,13 @@ weight: 25
 
 
 ### **<span style="color: #850000;">Us and Them</span>**
-from the series *Panoptic Segmentation*  
-2023, Self-Published Poster, edition of 150       
-Riso print, 59.4 x 42 cm. 
+2023, Self-Published Poster, edition of 150, Riso print, 59.4 x 42 cm. 
 
-In *The Image World*, Susan Sontag differentiates Chinese and Western photography under a rather aleatory range of nuances. When discussing Western photography in her essay, she employed the pronouns *we*, *us*, and *our*; and, subsequently, when referring to Chinese photography, the pronouns *they*, *them*, and *their*. I realized that, under her written voice, I was one of *them*; I was repeatedly sentenced to not belong. The truth is, at times, possibly more often than I myself realize, I feel closer to that which she refers to as an *us*, than I do to her *them*. Maybe it would be more accurate to say I feel I exist between those categorizations, those of *us* and *them*. I grabbed my edition of *On Photography*, and scribbled on top of the pronouns employed in her referring to China with those she used for the West.
+In *The Image World*, American writer Susan Sontag differentiates Chinese and Western photography under a rather aleatory range of nuances. When discussing Western photography in her essay, she employs the pronouns *we*, *us*, and *our,* suggesting she is part of the “in-group.” Subsequently, when referring to Chinese photography, she separates herself from the subjects, utilizing *they*, *them*, and *their*.
+
+When Zhou read Sontag’s written voice, they were repeatedly sentenced to not belong, continuously being othered.
+
+In *On Photography*, the artist rewrites the pronouns of Sontag’s critique of Chinese photography. This piece questions and investigates “us” and “othering.” Who belongs? How does one earn belonging? Whose voice deserves space in the dominant discourse?
 
 
 ![image of ladder](us-and-them.jpg)  

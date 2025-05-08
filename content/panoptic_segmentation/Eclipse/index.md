@@ -6,14 +6,14 @@ weight: 30
 ### **<span style="color: #850000;">Eclipse</span>**
 
 from the series *Panoptic Segmentation*  
-2022, Archival pigment print, 120 x 80 cm    
+2023, Archival pigment print, 120 x 80 cm    
 
-Photography in Chinese essentially means 'capturing shadows,' while the Latin etymology of photography refers to 'drawing with light.' Photography provides me with the lens through which to explore the contents of capturing shadows—to discern what is still visible, even within the darkness they cast.
+Photography in Chinese essentially means 'capturing shadows,' while the Latin etymology of photography refers to 'drawing with light.' Photography provides Yujie Zhou with the lens through which to explore the contents of capturing shadows—to discern what is still visible, even within the darkness they cast.
 
 
 
 ![image of eclipse](eclipse.jpg)  
-***<span style="color: #850000;">Eclipse</span>***, 2022
+***<span style="color: #850000;">Eclipse</span>***, 2023
 
 
 <p>&nbsp;</p>

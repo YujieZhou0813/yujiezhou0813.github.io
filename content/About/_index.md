@@ -1,14 +1,13 @@
 ---
 title: "About"
 weight: 30
-description: "Yujie Zhou is a Chinese visual artist based in Helsinki, Finland. They navigate performativity and a decoded notion of language through photography, textiles, video, and publishing. Based on the juxtaposition between their nationalist upbringing and their current life in Diapora, their practice interrogates dominant historical narratives and power structures while reframing collective individuality.instagram:@yujie.jpg"
+description: "Yujie Zhou is a visual artist based in Helsinki, Finland. They navigate performativity and a decoded notion of language through photography, textiles, video, and publishing. Based on the juxtaposition between their nationalist upbringing and their current life in Diapora, their practice interrogates dominant historical narratives and power structures while reframing collective individuality.instagram:@yujie.jpg"
 bookFlatSection: true
 ---
 
 **Yujie Zhou**   
 
 Born in China. Based in Helsinki, Finland    
-Contact: yujiezhoustudio@gmail.com
 
 Yujie Zhou (they/them) is a Chinese visual artist based in Helsinki, Finland. They navigate performativity and a decoded notion of language through photography, textiles, video, and publishing. Based on the juxtaposition between their nationalist upbringing and their current life in Finland, their practice interrogates dominant historical narratives and power structures while reframing collective individuality.
 
@@ -23,7 +22,7 @@ In 2024, they were granted the Kone Foundation’s Saari Residency, Finland and 
 2021-2023	Master of Arts, Aalto University, Finland.        
 		Major in Photography. Minor in Textiles — Material and Structure.          
 2015-2019	Bachelor of Science, Mechanical Engineering.       
- 		University of Illinois Chicago, US       
+ 		University of Illinois Chicago, USA      
 		Changchun University of Science and Technology, China 
 
 
@@ -40,8 +39,7 @@ In 2024, they were granted the Kone Foundation’s Saari Residency, Finland and 
 
  **Selected Group Exhibitions**  
 2025 	(upcoming) Invisible Race, Finnish Museum of Photography, Helsinki, Finland        
-2025	(upcoming) Gallery Loisti, Helsinki, Finland         
-2025	(upcoming) Into the Light, Copenhagen International Photography Festival, Copenhagen, Denmark        
+2025	(upcoming) Gallery Loisti, Helsinki, Finland           
 2025	*Was I ever really here?*, Old Pfizer Factory, curated by the **School of Visual Arts MA Curatorial Practice**, Brooklyn, New York, USA.
 2024 *Save as Text*, [**Singapore International Photography Festival**](https://sipf.sg/save-as-text/), Singapore     
 2024 *Way of the World - Works from Jenny and Antti Wihuri Foundation Collection*, [**Rovaniemi Art Museum**](https://korundi.fi/fi/kavijalle/tapahtumakalenteri/maailman-menoa-teoksia-jenny-ja-antti-wihurin-rahaston-kokoelmasta), Rovaniemi, Finland     
@@ -68,7 +66,7 @@ In 2024, they were granted the Kone Foundation’s Saari Residency, Finland and 
 **Selected Fellowships / Residencies**    
 2026	(upcoming) Treasure Hill Artist Village, Taipei, Taiwan   
 2025 	(upcoming) Stiftung Künstlerdorf Schöppingen Foundation, Münsterland, Germany      
-2025 [**Pioneer Works**](https://fciny.org/news/the-fcinys-artists-in-residence-2025), Artists-in-Residence program by Finnish Cultural Institute in New York. New York, US.     
+2025 [**Pioneer Works**](https://fciny.org/news/the-fcinys-artists-in-residence-2025), Artists-in-Residence program by Finnish Cultural Institute in New York. New York, USA.     
 2025 [**Tempel Bar Gallery + Studios**](https://www.templebargallery.com/news/temple-bar-gallery-studios-and-hiap-helsinki-international-artist-programme-announce-the-recipients-of-the-tbg-s-hiap-international-residency-exchange-2025),TBG+S/HIAP International Residency Exchange 2025, Dublin, Ireland      
 2024 [**Saari Residency-Kone Foundation**](https://koneensaatio.fi/en/saari-residence/residency-artists/yujie-zhou/), Finland  
 2024 [**HIAP, 11-month Artist in Residency**](https://www.hiap.fi/resident/yujie-zhou/), Helsinki, Finland     
@@ -99,6 +97,6 @@ FUTURES Photography
 Artists’ Association of Finland     
 Association of Photographic Artists Finland    
 Catalysti - Association of Transcultural Artists in Finland    
-Kiila Finland      
+KIILA Finland      
 
 

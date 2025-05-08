@@ -5,10 +5,10 @@ weight: 49
 
 ### **<span style="color: #850000;">Ladder and Wall</span>**
 
-from the series *Panoptic Segmentation*      
-2022, Ceramics, 65 x 45 x15 cm
+2022, Ceramics, 65 x 45 x15 cm.     
+Collected by Jenny and Antti Wihuri Foundation Collection
 
-In *Ladder and Wall*, I purposefully trigger a fissure as to pierce the Great Firewall, climbing up the ladder by means of a VPN (Virtual Private Network). Moved by the strengthened censorship that, following the COVID-19 breakout, took over all content shared in social media platforms, this is, back in Spring 2020, I found myself creating a folder titled Censorship in my Google Drive account. There, I backed up a series of screenshots I had been taking, in an urge to collect the either censored or soon-to- be censored posts. These screenshots became the raw material I used in sculpting the ceramic ladder I titled *Ladder and Wall*, during the Spring of 2022. I printed and tore the images into small fragments and used the scraps of paper to mix paper clay. These fragments are not visible in the ladder itself, but they are a substantial structural element in its constitution.
+In ***Ladder and Wall***, Yujie Zhou created a metaphorical ladder representing the use of a VPN (Virtual Private Network) to climb over the Great Firewall. In the spring of 2020, Zhou created a folder titled Censorship, where they began archiving a series of screenshots—images of posts that had either already been censored or were likely to be removed soon. These screenshots became the raw material for sculpting the ceramic work Ladder and Wall. Zhou printed the images, tore them into small fragments, and mixed the scraps with clay to make paper clay. While the image fragments are no longer visible in the final ceramic form, they remain a vital structural component of the ladder’s physical and conceptual construction.
 
 
 

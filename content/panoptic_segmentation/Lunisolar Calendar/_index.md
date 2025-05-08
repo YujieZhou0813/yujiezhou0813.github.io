@@ -4,15 +4,14 @@ weight: 45
 ---
 
 ### **<span style="color: #850000;">Lunisolar Calendar</span>**
-from the series *Panoptic Segmentation*  
-2022-2023  
-Performance, Letterpress print on 24 bound sheets of Chinese paper, 69 x 165 cm
+
+2022-2023, Performance, Letterpress print on 24 bound sheets of Chinese paper, 69 x 165 cm
  
-The character 明 (Míng) is composed of 日 (rì) and 月 (yuè), representing sun/day and moon/month in Chinese respectively. When combined, 明 (Míng) embodies meanings like light, tomorrow, and to understand. The connection between 日 (rì) and 月 (yuè) is evident in Chinese culture's lunisolar calendar, which blends lunar and solar aspects. This calendar plays a significant role in various celebrations, such as Chinese New Year and traditional festivals. In my work *Lunisolar Calendar*, I chose to utilize the shapes of the Chinese characters for 日 and 月 in Oracle bone script as the content of the calendar, reconnecting the concept of light and the origins of writing.
+In the work *Lunisolar Calendar*, Yujie Zhou used letterpress blocks of the Latin alphabet to form the shapes of the sun (日) and the moon (月) in Oracle Bone Script—an ancient form of Chinese writing. By repeatedly printing these characters using movable type and gradually increasing the number of impressions from one to twenty-four, the text progressively loses its legibility.
 
-As modern simplified Chinese has undergone changes in its form and adopted the Pinyin input method. To address this, I arranged Latin alphabets in the form of 日 and 月 in Oracle bone script using letterpress blocks. I repeatedly printed these characters on Chinese Xuan paper through movable type printing, incrementally increasing the number of prints from one to twenty-four. Through the repetitive act of printing, the text gradually loses its legibility, returning to an illegible state of the Oracle bone script.
+Starting on the first day of the exhibition, Zhou tore off one sheet of paper each day at the exhibition site.
 
-Rather than being a conventional calendar, I modified it to be closed by binding both sides of the paper together. Each day, counting from the Chinese Lunar New Year in 2023, I tore off one sheet of paper at the exhibition site. This act of tearing off serves as a way to question and attempt to understand the meaning of 明 (light and to understand) from the origin of language.
+Chinese, a character-based language, does not rely on an alphabet. However, it was Romanized to fit the QWERTY keyboard in a homogenizing effort, leading to the creation of Hanyu Pinyin—the most common input method for Mandarin today. When the characters 日 (sun) and 月 (moon) are combined, they form the character 明, which means "light," "tomorrow," and "understanding." The daily act of tearing off each sheet becomes a ritual gesture—an attempt to question and reflect on the meaning of language itself, as well as the implications of Romanization and linguistic erasure of language.
 
 ![image of calendar](/images/frontpage/calendar-install.JPG)  
 

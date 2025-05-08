@@ -8,12 +8,13 @@ bookCollapseSection: true
 ### **<span style="color: #850000;">White Shadows</span>**
 
    
-2024     
-Jacquard Weave, Handwoven, Wool and Cotton. Designed and woven by the artist, each work is a unique piece.
+2024, Jacquard Weave, Handwoven, Wool and Cotton. Designed and woven by the artist, each work is a unique piece.
 
-***White Shadows*** is a series of handwoven textile works created using the Jacquard weaving technique. These tapestries transform archival images from the artist's upbringing—scenes marked by propaganda events and disciplinary practices—into black-and-white pixelated structures. The pixels function both as intersections of warp and weft in weaving and as the basic units of photography. The white pixels in the woven structures are intended to bring the white weft threads to the front of the textiles. In this way, Zhou makes the silenced and normalized experience visible— creating “white shadows.”
+***White Shadows*** is a series of handwoven textile works created using the Jacquard weaving technique. These tapestries transform archival images from the artist's upbringing—scenes marked by propaganda events and disciplinary practices—into black-and-white pixelated structures. The pixels function both as intersections of warp (vertical) and weft (horizontal) in weaving and as the basic units of photography. The white pixels in the woven structures are intended to bring the white weft threads to the front of the textiles. In this way, the artist makes the silenced and normalized experience visible— creating “white shadows.”    
 
-Glitches occur as the pixels are translated from image files to weaving design files, forming the woven structure —faces blur, recognition fades, and identities are obscured. These deliberate disruptions act as a form of camouflage, protecting people who share this collective identity. Through these works, the artist seeks to reclaim agency over their experience and narrative, transforming what once symbolized uniformity into something deeply personal and reflective.
+The Jacquard loom is considered a precursor to the modern computer. It employs a binary system—black and white "pixels"—to encode and store information. Glitches occur as the pixels are translated from image files to weaving design files, forming the woven structure —faces blur, recognition fades, and identities are obscured. These deliberate disruptions act as a form of camouflage, protecting the artist and others who share this collective identity.
+
+
 
 
 

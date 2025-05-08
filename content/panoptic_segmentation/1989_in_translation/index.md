@@ -8,9 +8,13 @@ weight: 15
 
 
 
-2022, Single-channel video, color, sound, 4:28 minutes  
+2023, Single-channel video, color, sound, 4:28 minutes  
 
-*1989 in Translation* marks my first step up a Ladder. Here I walk you through my coming across a chapter in history that my education have be misplaced xxxxx (which I do not dare to openly discuss). In the video, the text displayed on the wall traces an excerpt from the first book I read about the protest after I began using VPN (Virtual Private Network) to bypass the Great Firewall. The audio component of the work featured the sound of Radio Calisthenics, a daily mandatory radio gymnastic exercise for every Chinese student from primary to high school. I performed this exercise in front of Google Lens, while Google Translate generated illegible text blocks in response to my body movements.
+In the video, the text displayed on the wall traces an excerpt from the first book the artist Yujie Zhou read about the 1989 protest in Beijing, China. Any information about this major historical event has always been and continues to be banned in the artist’s nation. They only learned about this event when they attended university abroad.
+
+The body movement performed is the daily mandatory gymnastic exercise every Chinese student from primary to high school must participate in among their school.
+
+Yujie Zhou performs this exercise in front of Google Lens, while Google Translate generated illegible text blocks in response to the body movements, continuing a motif of glitches, fragmented information, and the resistance to systemic censorship.
 
 
 
