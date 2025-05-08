@@ -2,52 +2,25 @@
 name: Deploy Hugo site to Pages
 
 on:
+  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+
+  # Allows manual trigger from the Actions tab
   workflow_dispatch:
 
+# Permissions needed to deploy to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Allow only one deployment at a time
 concurrency:
   group: "pages"
   cancel-in-progress: true
 
+# Use bash shell by default
 defaults:
   run:
-    shell: bash
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.108.0
-    steps:
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Install Dart Sass Embedded
-        run: sudo snap install dart-sass-embedded
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          submodules: recursive
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v2
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      - name: Build with Hugo
-        env:
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
-        run: |
-          hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
-
-      - name: Preload upload-artifact
-        uses: actions/upload
+    shell
