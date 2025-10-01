@@ -11,24 +11,18 @@ Born in China. Based in Helsinki, Finland
 
 Yujie Zhou (they/them) is a Chinese visual artist based in Helsinki, Finland. They navigate performativity and a decoded notion of language through photography, textiles, video, and publishing. Based on the juxtaposition between their nationalist upbringing and their current life in Finland, their practice interrogates dominant historical narratives and power structures while reframing collective individuality.
 
-Zhou holds a Master’s Degree in Arts with a major in Photography and a minor in Textiles—Materials and Structures at Aalto University, Finland. Selected solo exhibitions include *QWERTY* at Photographic Gallery Hippolyte, Helsinki, Finland (2023); *Four Women* at Photographic Centre Peri, Turku, Finland (2023); *White Shadows* at Taidekeskus Mältinranta, Tampere, Finland (2024); and *White Shadows* at Vent Space, Tallinn, Estonia (2024). Group exhibitions include *MoA 23* at the Finnish Museum of Photography, Helsinki (2023); *Make Me Find You* at alpha nova & galerie futura, Berlin, Germany (2023); and *Disrupted Narratives* at the Singapore International Photography Festival (2024).
+Zhou holds a Master’s Degree in Arts with a major in Photography and a minor in Textiles—Materials and Structures at Aalto University, Finland. Selected solo exhibitions include *QWERTY* at Photographic Gallery Hippolyte, Helsinki, Finland (2023); *Four Women* at Photographic Centre Peri, Turku, Finland (2023); *White Shadows* at Taidekeskus Mältinranta, Tampere, Finland (2024); and *White Shadows* at Vent Space, Tallinn, Estonia (2024). Group exhibitions include *Invisible Race* at the Finnish Museum of Photography, Helsinki (2025); *Disrupted Narratives* at the Singapore International Photography Festival (2024), and *Make Me Find You* at alpha nova & galerie futura, Berlin, Germany (2023).
 
-Selected awards include the Finnish Art Society’s Young Artist Grant (2023), artist for Plat(t)form 2023 at Fotomuseum Winterthur, Switzerland, the FUTURES Photography Talent 2024 nominated by Fotogalleriet, Oslo, Norway, shortlist for the PhMuseum 2024 Photography Grant’s Main Prize, and selectee for Copenhagen International Photography Festival(2025).
+Selected awards include the Finnish Art Society’s Young Artist Grant (2023), artist for Plat(t)form 2023 at Fotomuseum Winterthur, Switzerland, the FUTURES Photography Talent 2024 nominated by Fotogalleriet, Oslo, Norway, shortlist for the PhMuseum 2024 Photography Grant’s Main Prize, and .
 
 In 2024, they were granted the Kone Foundation’s Saari Residency, Finland and an 11-month Artist Residency at HIAP, Finland. Zhou is the recipient of the Temple Bar Gallery + Studios & HIAP International Residency Exchange in Dublin, Ireland (2025); the Artist-in-Residence at Pioneer Works, supported by the Finnish Cultural Institute in New York (2025). 
 
 
-**Education**    
-2021-2023	Master of Arts, Aalto University, Finland.        
-		Major in Photography. Minor in Textiles — Material and Structure.          
-2015-2019	Bachelor of Science, Mechanical Engineering.       
- 		University of Illinois Chicago, USA      
-		Changchun University of Science and Technology, China 
-
 
 
 **Solo Exhibitions**  
-2026 (upcoming) Forum Box, Helsinki, Finland        
+2026 (upcoming) Forum Box, Helsinki, Finland  
+2026 (upcoming) Titanik, Turku, Finland      
 2025 *Making Myself Invisible*,  **Kone Foundation's Puhuri by Patisserie Teemu Aura**, Helsinki, Finland      
 2024 *White Shadows*, **Vent Space**, Tallinn, Estonia    
 2024  *White Shadows*, [**Taidekeskus Mältinranta**](https://maltinranta.fi/yujie-zhou/), Tampere, Finland   
@@ -38,8 +32,8 @@ In 2024, they were granted the Kone Foundation’s Saari Residency, Finland and 
 
 
  **Selected Group Exhibitions**  
-2025 	(upcoming) Invisible Race, Finnish Museum of Photography, Helsinki, Finland        
-2025	(upcoming) Gallery Loisti, Helsinki, Finland           
+2025 	*Invisible Race*, Finnish Museum of Photography, Helsinki, Finland   
+2025	*Into the Light*, Copenhagen International Photography Festival, Copenhagen,Denmark              
 2025	*Was I ever really here?*, Old Pfizer Factory, curated by the **School of Visual Arts MA Curatorial Practice**, Brooklyn, New York, USA.
 2024 *Save as Text*, [**Singapore International Photography Festival**](https://sipf.sg/save-as-text/), Singapore     
 2024 *Way of the World - Works from Jenny and Antti Wihuri Foundation Collection*, [**Rovaniemi Art Museum**](https://korundi.fi/fi/kavijalle/tapahtumakalenteri/maailman-menoa-teoksia-jenny-ja-antti-wihurin-rahaston-kokoelmasta), Rovaniemi, Finland     
@@ -65,24 +59,23 @@ In 2024, they were granted the Kone Foundation’s Saari Residency, Finland and 
 
 **Selected Fellowships / Residencies**    
 2026	(upcoming) Treasure Hill Artist Village, Taipei, Taiwan   
-2025 	(upcoming) Stiftung Künstlerdorf Schöppingen Foundation, Münsterland, Germany      
+2025 	[**Stiftung Künstlerdorf Schöppingen Foundation**](http://stiftung-kuenstlerdorf.de/en/stipendiatinnen), Münsterland, Germany        
 2025 [**Pioneer Works**](https://fciny.org/news/the-fcinys-artists-in-residence-2025), Artists-in-Residence program by Finnish Cultural Institute in New York. New York, USA.     
 2025 [**Tempel Bar Gallery + Studios**](https://www.templebargallery.com/news/temple-bar-gallery-studios-and-hiap-helsinki-international-artist-programme-announce-the-recipients-of-the-tbg-s-hiap-international-residency-exchange-2025),TBG+S/HIAP International Residency Exchange 2025, Dublin, Ireland      
 2024 [**Saari Residency-Kone Foundation**](https://koneensaatio.fi/en/saari-residence/residency-artists/yujie-zhou/), Finland  
 2024 [**HIAP, 11-month Artist in Residency**](https://www.hiap.fi/resident/yujie-zhou/), Helsinki, Finland     
-2022 DAMA@Narva Art Residency, Narva, Estonia   
-2021 Yeshan Art Residency, Fuzhou, China  
 
 
-**Selected Grants**      
-2025	Arts Promotion Centre Finland, Project Grant    
-2025	Arts Promotion Centre Finland, Six-Month Artist Grant    
-2024	Olga and Vilho Linnamo Foundation, One-Year Working Grant    
-2024	Arts Promotion Centre Finland, Project Grant    
-2024	Kone Foundation's Saari Residence    
-2024	Finnfoto, Project Grant    
-2023	Young Artist Grant, Finnish Art Society, Finland   
+
+**Selected Grants**  
+2025	Arts Promotion Centre Finland, One-Year Artist Grant        
+2024	Arts Promotion Centre Finland, Six-Month Artist Grant    
+2024	Olga and Vilho Linnamo Foundation, One-Year Working Grant   
+2024	Arts Promotion Centre Finland, Project Grant     
+2023	Arts Promotion Centre Finland, Project Grant   
 2023	Finnfoto, Project Grant    
+2023	Young Artist Grant, Finnish Art Society, Finland   
+2022	Finnfoto, Project Grant    
 
 
 **Selected Screenings**    
@@ -92,11 +85,19 @@ In 2024, they were granted the Kone Foundation’s Saari Residency, Finland and 
 2024	Verzasca Foto, Switzerland   
 2024	PhMuseum Days 2024, Italy    
  
-**Memberships**     
+**Members**     
 FUTURES Photography     
 Artists’ Association of Finland     
 Association of Photographic Artists Finland    
 Catalysti - Association of Transcultural Artists in Finland    
 KIILA Finland      
+
+**Education**    
+2021-2023	Master of Arts, Aalto University, Finland.        
+		Major in Photography. Minor in Textiles — Material and Structure.          
+2015-2019	Bachelor of Science, Mechanical Engineering.       
+ 		University of Illinois Chicago, USA      
+		Changchun University of Science and Technology, China 
+
 
 
