@@ -8,7 +8,7 @@ description: "Yujie Zhou is a visual artist working with  photography, textiles,
 
 
 [![An Oriental Girl](/images/ADA-1.jpg)](../an_oriental_girl/)
-***<span style="color: #850000;">An Oriental Girl</span>***, 2025, Jacquard Weave, Wool and Cotton. 
+***<span style="color: #850000;">An Oriental Girl</span>***, 2025, Jacquard Weave, Handwoven, Wool and Cotton. 
 
 
 [![image of installation](/images/Hippolyte/hippolyte-23.jpg)](../save_as_text/)  

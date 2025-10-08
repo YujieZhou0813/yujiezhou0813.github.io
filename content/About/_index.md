@@ -12,7 +12,7 @@ Yujie Zhou (they/them) is a Chinese visual artist based in Helsinki, Finland. Th
 
 Zhou holds a Master’s degree in Arts from Aalto University, majoring in Photography with a minor in Textiles—Materials and Structures. Selected solo exhibitions include Photographic Gallery Hippolyte, Helsinki, Finland; Photographic Centre Peri, Turku, Finland; Taidekeskus Mältinranta, Tampere, Finland; and Vent Space, Tallinn, Estonia. Selected group exhibitions include the Finnish Museum of Photography, Helsinki, Finland; alpha nova & galerie futura, Berlin, Germany; the Singapore International Photography Festival, Singapore.
 
-Zhou has been awarded the FUTURES Photography Talent 2024 nomination by Fotogalleriet, Oslo, Norway; the Finnish Art Society’s Young Artist Grant (2023); shortlisted for the PhMuseum 2024 Photography Grant’s Main Prize; and nominated artist for Plat(t)form 2023 at Fotomuseum Winterthur, Switzerland, and Selectee of the Copenhagen International Photography Festival, Copenhagen, Denmark(2025). 
+Zhou has been awarded the FUTURES Photography Talent 2024 nomination by Fotogalleriet, Oslo, Norway; the Finnish Art Society’s Young Artist Grant (2023); shortlisted for the PhMuseum 2024 Photography Grant’s Main Prize; and nominated artist for Plat(t)form 2023 at Fotomuseum Winterthur, Switzerland, and Selectee of the Copenhagen International Photography Festival, Copenhagen, Denmark (2025). 
 
 Zhou has been granted residencies at Kone Foundation’s Saari Residence, HIAP (Helsinki), Temple Bar Gallery + Studios (Dublin), Pioneer Works (New York), and Künstlerdorf Schöppingen (Germany).
 
