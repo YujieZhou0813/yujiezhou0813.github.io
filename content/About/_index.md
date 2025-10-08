@@ -6,23 +6,21 @@ bookFlatSection: true
 ---
 
 **Yujie Zhou**   
-
-Born in China. Based in Helsinki, Finland    
+ 
 
 Yujie Zhou (they/them) is a Chinese visual artist based in Helsinki, Finland. They navigate performativity and a decoded notion of language through photography, textiles, video, and publishing. Based on the juxtaposition between their nationalist upbringing and their current life in Finland, their practice interrogates dominant historical narratives and power structures while reframing collective individuality.
 
-Zhou holds a Master’s Degree in Arts with a major in Photography and a minor in Textiles—Materials and Structures at Aalto University, Finland. Selected solo exhibitions include *QWERTY* at Photographic Gallery Hippolyte, Helsinki, Finland (2023); *Four Women* at Photographic Centre Peri, Turku, Finland (2023); *White Shadows* at Taidekeskus Mältinranta, Tampere, Finland (2024); and *White Shadows* at Vent Space, Tallinn, Estonia (2024). Group exhibitions include *Invisible Race* at the Finnish Museum of Photography, Helsinki (2025); *Disrupted Narratives* at the Singapore International Photography Festival (2024), and *Make Me Find You* at alpha nova & galerie futura, Berlin, Germany (2023).
+Zhou holds a Master’s degree in Arts from Aalto University, majoring in Photography with a minor in Textiles—Materials and Structures. Selected solo exhibitions include Photographic Gallery Hippolyte, Helsinki, Finland; Photographic Centre Peri, Turku, Finland; Taidekeskus Mältinranta, Tampere, Finland; and Vent Space, Tallinn, Estonia. Selected group exhibitions include the Finnish Museum of Photography, Helsinki, Finland; alpha nova & galerie futura, Berlin, Germany; the Singapore International Photography Festival, Singapore.
 
-Selected awards include the Finnish Art Society’s Young Artist Grant (2023), artist for Plat(t)form 2023 at Fotomuseum Winterthur, Switzerland, the FUTURES Photography Talent 2024 nominated by Fotogalleriet, Oslo, Norway, shortlist for the PhMuseum 2024 Photography Grant’s Main Prize, and .
+Zhou has been awarded the FUTURES Photography Talent 2024 nomination by Fotogalleriet, Oslo, Norway; the Finnish Art Society’s Young Artist Grant (2023); shortlisted for the PhMuseum 2024 Photography Grant’s Main Prize; and nominated artist for Plat(t)form 2023 at Fotomuseum Winterthur, Switzerland, and Selectee of the Copenhagen International Photography Festival, Copenhagen, Denmark(2025). 
 
-In 2024, they were granted the Kone Foundation’s Saari Residency, Finland and an 11-month Artist Residency at HIAP, Finland. Zhou is the recipient of the Temple Bar Gallery + Studios & HIAP International Residency Exchange in Dublin, Ireland (2025); the Artist-in-Residence at Pioneer Works, supported by the Finnish Cultural Institute in New York (2025). 
-
+Zhou has been granted residencies at Kone Foundation’s Saari Residence, HIAP (Helsinki), Temple Bar Gallery + Studios (Dublin), Pioneer Works (New York), and Künstlerdorf Schöppingen (Germany).
 
 
 
 **Solo Exhibitions**  
-2026 (upcoming) Forum Box, Helsinki, Finland  
-2026 (upcoming) Titanik, Turku, Finland      
+2026 (upcoming) **Forum Box**, Helsinki, Finland  
+2026 (upcoming) **Titanik**, Turku, Finland      
 2025 *Making Myself Invisible*,  **Kone Foundation's Puhuri by Patisserie Teemu Aura**, Helsinki, Finland      
 2024 *White Shadows*, **Vent Space**, Tallinn, Estonia    
 2024  *White Shadows*, [**Taidekeskus Mältinranta**](https://maltinranta.fi/yujie-zhou/), Tampere, Finland   
@@ -32,9 +30,9 @@ In 2024, they were granted the Kone Foundation’s Saari Residency, Finland and 
 
 
  **Selected Group Exhibitions**  
-2025 	*Invisible Race*, Finnish Museum of Photography, Helsinki, Finland   
-2025	*Into the Light*, Copenhagen International Photography Festival, Copenhagen,Denmark              
-2025	*Was I ever really here?*, Old Pfizer Factory, curated by the **School of Visual Arts MA Curatorial Practice**, Brooklyn, New York, USA.
+2025 	*Invisible Race*, [**Finnish Museum of Photography**](https://www.valokuvataiteenmuseo.fi/en/exhibitions/invisible-race), Helsinki, Finland   
+2025	*Into the Light*, [**Copenhagen International Photography Festival**](https://copenhagenphotofestival.com/copenhagen-photo-selectees-2025/), Copenhagen,Denmark              
+2025	*Was I ever really here?*, Old Pfizer Factory, curated by the [**School of Visual Arts MA Curatorial Practice**](https://www.macp.sva.edu/was-i-ever-really-here), Brooklyn, New York, USA.
 2024 *Save as Text*, [**Singapore International Photography Festival**](https://sipf.sg/save-as-text/), Singapore     
 2024 *Way of the World - Works from Jenny and Antti Wihuri Foundation Collection*, [**Rovaniemi Art Museum**](https://korundi.fi/fi/kavijalle/tapahtumakalenteri/maailman-menoa-teoksia-jenny-ja-antti-wihurin-rahaston-kokoelmasta), Rovaniemi, Finland     
 2023 *I Made You To Find Me*, [**Berlin Art Week**](https://berlinartweek.de/en/event/i-made-you-to-find-me/42dc209a-a8f1-4299-9d65-23562a97c3f3/?t=vernissage), alpha nova & galerie futura, Berlin, Germany  
@@ -43,8 +41,7 @@ In 2024, they were granted the Kone Foundation’s Saari Residency, Finland and 
 2023 *Tides*, **Espoo Culture Center**, Espoo, Finland      
 2022	*Booked*, **MUU Helsinki Contemporary Art Centre**, Helsinki, Finland   
 2022 *Wonder(ful)*, **Dipoli Gallery**, Espoo, Finland   
-2022 *Daughter of Chaos, Goddess of Night, Mother of all*, **V1 Gallery**, Aalto University, Finland   
-2021	*Growing from Moss*, **A4 Art Museum**, Chengdu, China
+ 
 
 **Selected Awards**    
 2025 [**Copenhagen Photo Selectees 2025**](https://copenhagenphotofestival.com/yujie-zhou/), Copenhagen, Denmark    
@@ -94,7 +91,7 @@ KIILA Finland
 
 **Education**    
 2021-2023	Master of Arts, Aalto University, Finland.        
-		Major in Photography. Minor in Textiles — Material and Structure.          
+		Major in Photography. Minor in Textiles — Material and Structure.           
 2015-2019	Bachelor of Science, Mechanical Engineering.       
  		University of Illinois Chicago, USA      
 		Changchun University of Science and Technology, China 
