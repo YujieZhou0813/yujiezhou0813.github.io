@@ -7,14 +7,13 @@ bookFlatSection: true
 
 **Yujie Zhou**   
  
+Yujie Zhou (they/them) is a Chinese visual artist based in Helsinki, Finland. They navigate a decoded notion of language and methods of bypassing censorship and surveillance through photography, Jacquard weaving, video, and publishing. Drawing from the juxtaposition between their nationalist upbringing and socio-political forms of control, their practice interrogates the construction of historical narratives while reframing collective individuality.
 
-Yujie Zhou (they/them) is a Chinese visual artist based in Helsinki, Finland. They navigate performativity and a decoded notion of language through photography, textiles, video, and publishing. Based on the juxtaposition between their nationalist upbringing and their current life in Finland, their practice interrogates dominant historical narratives and power structures while reframing collective individuality.
+Zhou holds a Master’s degree in Arts from Aalto University, Finland, majoring in Photography with a minor in Textiles. Their work has been presented at the Finnish Museum of Photography (Helsinki, Finland); alpha nova & galerie futura (Berlin, Germany); Copenhagen International Photography Festival 2025; the Singapore International Photography Festival 2024; and Plat(t)form 2023 at Fotomuseum Winterthur, Switzerland.
 
-Zhou holds a Master’s degree in Arts from Aalto University, majoring in Photography with a minor in Textiles—Materials and Structures. Selected solo exhibitions include Photographic Gallery Hippolyte, Helsinki, Finland; Photographic Centre Peri, Turku, Finland; Taidekeskus Mältinranta, Tampere, Finland; and Vent Space, Tallinn, Estonia. Selected group exhibitions include the Finnish Museum of Photography, Helsinki, Finland; alpha nova & galerie futura, Berlin, Germany; the Singapore International Photography Festival, Singapore.
+Zhou has been awarded the FUTURES Photography Talent 2024, the Finnish Art Society’s Young Artist Grant 2023, and shortlisted for the PhMuseum 2024 Photography Grant’s Main Prize. Their work is held in the Jenny and Antti Wihuri Foundation Collection. 
 
-Zhou has been awarded the FUTURES Photography Talent 2024 nomination by Fotogalleriet, Oslo, Norway; the Finnish Art Society’s Young Artist Grant (2023); shortlisted for the PhMuseum 2024 Photography Grant’s Main Prize; and nominated artist for Plat(t)form 2023 at Fotomuseum Winterthur, Switzerland, and Selectee of the Copenhagen International Photography Festival, Copenhagen, Denmark (2025). 
-
-Zhou has been granted residencies at Kone Foundation’s Saari Residence, HIAP (Helsinki), Temple Bar Gallery + Studios (Dublin), Pioneer Works (New York), and Künstlerdorf Schöppingen (Germany).
+Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finland), HIAP (Helsinki, Finland), Temple Bar Gallery + Studios (Dublin, Ireland), Pioneer Works (New York, USA), Künstlerdorf Schöppingen (Germany), and Treasure Hill Artist Village (Taipei, Taiwan).
 
 
 
