@@ -29,11 +29,11 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
 
 
  **Selected Group Exhibitions**  
-2026	*The Shudder Palace*, [**Centre de la photographie Genève**](https://www.centrephotogeneve.ch/exhibitions/le-palais-des-tressaillements), Genève, Switzerland 
-2026	*Nuoret 2026*, [**Kunsthalle Helsinki**](https://taidehalli.fi/events/nuoret-2026/), Helsinki, Finland
-2026	*Pelekääkkö nää polliisia?*, [**Photo North – Northern Photographic Centre**](https://www.photonorth.fi/fi/nayttelyt/pelekaakko-naa-polliisia/), Oulu, Finland. 
-2026	*THAV 2025 Season 4 Artist Exhibition*, **Treasure Hill Artist Village**, Taipei, Taiwan
-2025 	*Invisible Race*, [**Finnish Museum of Photography**](https://www.valokuvataiteenmuseo.fi/en/exhibitions/invisible-race), Helsinki, Finland   
+2026	*The Shudder Palace*, [**Centre de la photographie Genève**](https://www.centrephotogeneve.ch/exhibitions/le-palais-des-tressaillements), Genève, Switzerland    
+2026	*Nuoret 2026*, [**Kunsthalle Helsinki**](https://taidehalli.fi/events/nuoret-2026/), Helsinki, Finland    
+2026	*Pelekääkkö nää polliisia?*, [**Photo North – Northern Photographic Centre**](https://www.photonorth.fi/fi/nayttelyt/pelekaakko-naa-polliisia/), Oulu, Finland.    
+2026	*THAV 2025 Season 4 Artist Exhibition*, **Treasure Hill Artist Village**, Taipei, Taiwan    
+2025 	*Invisible Race*, [**Finnish Museum of Photography**](https://www.valokuvataiteenmuseo.fi/en/exhibitions/invisible-race), Helsinki, Finland    
 2025	*Into the Light*, [**Copenhagen International Photography Festival**](https://copenhagenphotofestival.com/copenhagen-photo-selectees-2025/), Copenhagen,Denmark              
 2025	*Was I ever really here?*, Old Pfizer Factory, curated by the [**School of Visual Arts MA Curatorial Practice**](https://www.macp.sva.edu/was-i-ever-really-here), Brooklyn, New York, USA.
 2024 *Save as Text*, [**Singapore International Photography Festival**](https://sipf.sg/save-as-text/), Singapore     
@@ -47,9 +47,9 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
  
 
 **Selected Awards**    
-2025 [**Copenhagen Photo Selectees 2025**](https://copenhagenphotofestival.com/yujie-zhou/), Copenhagen, Denmark    
-2024 [**PhMuseum 2024 Photography Grant**](https://phmuseum.com/submissions/save-as-text), Main Priza, Shortlist     
-2024 [**FUTURES Photography 2024**](https://www.futures-photography.com/artists/yujie-zhou), nominated by Fotogalleriet, Oslo, Norway        
+2025 [**Copenhagen Photo Selectees 2025**](https://copenhagenphotofestival.com/yujie-zhou/), Copenhagen, Denmark       
+2024 [**PhMuseum 2024 Photography Grant**](https://phmuseum.com/submissions/save-as-text), Main Priza, Shortlist       
+2024 [**FUTURES Photography 2024**](https://www.futures-photography.com/artists/yujie-zhou), nominated by Fotogalleriet, Oslo, Norway         
 2023 [**Plat(t)form, Fotomuseum Winterthur**](https://www.fotomuseum.ch/en/photographer-post/yujie-zhou/?filter[]=photographer_year%3A12852&_gl=1*67bvli*_up*MQ..*_ga*MTk0MDM4MDM2My4xNzEyNzY3NDE1*_ga_8DKMYL9P9X*MTcxMjc2NzQxNS4xLjAuMTcxMjc2NzQyMi4wLjAuMA..), Switzerland     
 2023 [**Young Artist Grant**](https://www.suomentaideyhdistys.fi/nuorten-taiteilijoiden-apurahat?lang=en), Finnish Art Sociery, Finland     
 2023 New Gaze 4,Vontobel Contemporary Photography Sponsorship Prize, Finalist, Zürich, Switzerland  
@@ -58,10 +58,10 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
 
 
 **Selected Fellowships / Residencies**    
-2026	FUTURES Artistic Residency, Amsterdam, Netherlands
-2026	[**Treasure Hill Artist Village**](https://www.artistvillage.org/artist-detail.php?p=5043&type=&place=&q=), Taipei, Taiwan   
-2025 	[**Stiftung Künstlerdorf Schöppingen Foundation**](http://stiftung-kuenstlerdorf.de/en/stipendiatinnen), Münsterland, Germany        
-2025 [**Pioneer Works**](https://fciny.org/news/the-fcinys-artists-in-residence-2025), Artists-in-Residence program by Finnish Cultural Institute in New York. New York, USA.     
+2026	FUTURES Artistic Residency, Amsterdam, Netherlands   
+2026	[**Treasure Hill Artist Village**](https://www.artistvillage.org/artist-detail.php?p=5043&type=&place=&q=), Taipei, Taiwan      
+2025 	[**Stiftung Künstlerdorf Schöppingen Foundation**](http://stiftung-kuenstlerdorf.de/en/stipendiatinnen), Münsterland, Germany          
+2025 [**Pioneer Works**](https://fciny.org/news/the-fcinys-artists-in-residence-2025), Artists-in-Residence program by Finnish Cultural Institute in New York. New York, USA.      
 2025 [**Tempel Bar Gallery + Studios**](https://www.templebargallery.com/news/temple-bar-gallery-studios-and-hiap-helsinki-international-artist-programme-announce-the-recipients-of-the-tbg-s-hiap-international-residency-exchange-2025),TBG+S/HIAP International Residency Exchange 2025, Dublin, Ireland      
 2024 [**Saari Residency-Kone Foundation**](https://koneensaatio.fi/en/saari-residence/residency-artists/yujie-zhou/), Finland  
 2024 [**HIAP, 11-month Artist in Residency**](https://www.hiap.fi/resident/yujie-zhou/), Helsinki, Finland     
