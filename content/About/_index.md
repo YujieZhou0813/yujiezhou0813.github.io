@@ -18,8 +18,8 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
 
 
 **Solo Exhibitions**  
-2026 (upcoming) **Forum Box**, Helsinki, Finland  
-2026 (upcoming) **Titanik**, Turku, Finland      
+2026 (upcoming) **Titanik**, Turku, Finland    
+2026 *Health Hammer*, **Forum Box**, Helsinki, Finland    
 2025 *Making Myself Invisible*,  **Kone Foundation's Puhuri by Patisserie Teemu Aura**, Helsinki, Finland      
 2024 *White Shadows*, **Vent Space**, Tallinn, Estonia    
 2024  *White Shadows*, [**Taidekeskus Mältinranta**](https://maltinranta.fi/yujie-zhou/), Tampere, Finland   
@@ -29,6 +29,10 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
 
 
  **Selected Group Exhibitions**  
+2026	*The Shudder Palace*, [**Centre de la photographie Genève**](https://www.centrephotogeneve.ch/exhibitions/le-palais-des-tressaillements), Genève, Switzerland 
+2026	*Nuoret 2026*, [**Kunsthalle Helsinki**](https://taidehalli.fi/events/nuoret-2026/), Helsinki, Finland
+2026	*Pelekääkkö nää polliisia?*, [**Photo North – Northern Photographic Centre**](https://www.photonorth.fi/fi/nayttelyt/pelekaakko-naa-polliisia/), Oulu, Finland. 
+2026	*THAV 2025 Season 4 Artist Exhibition*, **Treasure Hill Artist Village**, Taipei, Taiwan
 2025 	*Invisible Race*, [**Finnish Museum of Photography**](https://www.valokuvataiteenmuseo.fi/en/exhibitions/invisible-race), Helsinki, Finland   
 2025	*Into the Light*, [**Copenhagen International Photography Festival**](https://copenhagenphotofestival.com/copenhagen-photo-selectees-2025/), Copenhagen,Denmark              
 2025	*Was I ever really here?*, Old Pfizer Factory, curated by the [**School of Visual Arts MA Curatorial Practice**](https://www.macp.sva.edu/was-i-ever-really-here), Brooklyn, New York, USA.
@@ -54,7 +58,8 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
 
 
 **Selected Fellowships / Residencies**    
-2026	(upcoming) Treasure Hill Artist Village, Taipei, Taiwan   
+2026	FUTURES Artistic Residency, Amsterdam, Netherlands
+2026	[**Treasure Hill Artist Village**](https://www.artistvillage.org/artist-detail.php?p=5043&type=&place=&q=), Taipei, Taiwan   
 2025 	[**Stiftung Künstlerdorf Schöppingen Foundation**](http://stiftung-kuenstlerdorf.de/en/stipendiatinnen), Münsterland, Germany        
 2025 [**Pioneer Works**](https://fciny.org/news/the-fcinys-artists-in-residence-2025), Artists-in-Residence program by Finnish Cultural Institute in New York. New York, USA.     
 2025 [**Tempel Bar Gallery + Studios**](https://www.templebargallery.com/news/temple-bar-gallery-studios-and-hiap-helsinki-international-artist-programme-announce-the-recipients-of-the-tbg-s-hiap-international-residency-exchange-2025),TBG+S/HIAP International Residency Exchange 2025, Dublin, Ireland      
@@ -64,6 +69,8 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
 
 
 **Selected Grants**  
+2026	Finnish Cultural Foundation, Artist Grant
+2025	Finnish Cultural Foundation, Mobility Grant
 2025	Arts Promotion Centre Finland, One-Year Artist Grant        
 2024	Arts Promotion Centre Finland, Six-Month Artist Grant    
 2024	Olga and Vilho Linnamo Foundation, One-Year Working Grant   
