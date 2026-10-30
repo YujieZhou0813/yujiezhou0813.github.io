@@ -41,7 +41,7 @@ The exhibition treats weaving as an act to reminisce the presence of the voices 
 ![Health Hammer](health-hammer-5.jpg)
 
 
-***<span style="color: #850000;">Health Hammer </span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
+***<span style="color: #850000;">Health Hammer</span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
 
 Image Credit: Forum Box / Anna Autio, 2026
 <p>&nbsp;</p>

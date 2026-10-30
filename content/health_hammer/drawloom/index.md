@@ -27,7 +27,7 @@ The Jacquard mechanism later automated this system by transferring pattern contr
 ![Image of drawloom](drawloom_7.jpg)
 
 
-***<span style="color: #850000;">Drawloom / Drawperson </span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
+***<span style="color: #850000;">Drawloom / Drawperson</span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
 
 <p>&nbsp;</p>
 

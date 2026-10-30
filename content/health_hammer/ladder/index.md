@@ -28,7 +28,7 @@ A large opening is cut from the woven image, allowing viewers to look through th
 
 
 
-***<span style="color: #850000;">This Page Is Intentionally Left Blank </span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
+***<span style="color: #850000;">This Page Is Intentionally Left Blank</span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
 
 
 

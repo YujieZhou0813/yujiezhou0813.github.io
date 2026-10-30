@@ -29,7 +29,7 @@ Rather than locating memory in a fixed public monument, Health Hammer asks how r
 ![image of Hammer](hammer-5.jpg)  
 
 
-***<span style="color: #850000;">Health Hammer </span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
+***<span style="color: #850000;">Health Hammer</span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
 
 
 <p>&nbsp;</p>

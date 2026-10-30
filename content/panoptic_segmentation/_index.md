@@ -5,7 +5,7 @@ bookCollapseSection: true
 ---
 
 ## Panoptic Segmentation
-2022-2024, Medium: Photography, video, performance, publishing, and installation. 
+2022-2025, Medium: Photography, video, performance, publishing, and installation. 
 
 Panoptic Segmentation refers to an image segmentation method in computer vision that allows machines to separate objects into segments. From a socio-political perspective, this method draws a parallel with the panopticon, a disciplinary mechanism based on continuous surveillance. Both systems operate similarly by breaking down objects into segmented components.
 
@@ -49,4 +49,10 @@ From a self-reflective critical stance, my practice seeks to identify, unravel a
 [![image](/images/frontpage/ladder-3.jpg)](../panoptic_segmentation/ladder-and-wall/)
 ***<span style="color: #850000;">Ladder and Wall</span>***,  2022, Ceramics, 65 x 45 x15 cm.
 <p>&nbsp;</p>
+
+
+[![image](../content/panoptic_segmentation/dictionary_of_self_censorship/dictionary-3.jpg)](../panoptic_segmentation/dictionary_of_self_censorship)
+***<span style="color: #850000;">Dictionary of Self-Censorship</span>***,  2023-2025, Vinyl Cutting , Notebook, Lightbox.
+<p>&nbsp;</p>
+
 

@@ -24,9 +24,8 @@ Installed horizontally within the drawloom structure, the textile resembles a ma
 ![Instruction](3.jpg)
 
 
-![Instruction](4.jpg)
 
-***<span style="color: #850000;">Until it Resonates </span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
+***<span style="color: #850000;">Until it Resonates</span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
 
 
 

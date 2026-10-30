@@ -14,10 +14,18 @@ When Zhou read Sontag’s written voice, they were repeatedly sentenced to not b
 In *On Photography*, the artist rewrites the pronouns of Sontag’s critique of Chinese photography. This piece questions and investigates “us” and “othering.” Who belongs? How does one earn belonging? Whose voice deserves space in the dominant discourse?
 
 
-![image of ladder](us-and-them.jpg)  
+![image](us-and-them.jpg)  
 ***<span style="color: #850000;">Us and Them</span>***, 2023
 
 <p>&nbsp;</p>
 
-![image of ladder](us-and-them-1.jpg)  
+![image](us-and-them-1.jpg)  
 ***<span style="color: #850000;">Us and Them</span>***, Installation View at *MoA 23*, **Finnish Museum of Photography**, Finland, 2023
+
+<p>&nbsp;</p>
+
+![image](us-and-them-4.jpg)  
+
+![image](us-and-them-5.jpg)  
+
+***<span style="color: #850000;">Us and Them</span>***, Installation View at *Was I Ever Really Here?*, Old Pfizer Factory, Brooklyn, New York, USA, 2025

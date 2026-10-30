@@ -37,7 +37,7 @@ The drawloom later contributed to the development of the Jacquard mechanism, whi
 
 
 
-***<span style="color: #850000;">Pulling the Flowers </span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
+***<span style="color: #850000;">Pulling the Flowers</span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
 
 
 

@@ -8,7 +8,7 @@ weight: 15
 
 
 
-2023, Single-channel video, color, sound, 4:28 minutes  
+2022, Single-channel video, color, sound, 4:28 minutes  
 
 In the video, the text displayed on the wall traces an excerpt from the first book the artist Yujie Zhou read about the 1989 protest in Beijing, China. Any information about this major historical event has always been and continues to be banned in the artist’s nation. They only learned about this event when they attended university abroad.
 

@@ -28,14 +28,8 @@ This work is indebted to all those who stood with courage in these moments, whet
 
 
 
-![The Blank White Paper](paper-4.jpg)
 
-
-![The Blank White Paper](paper-5.jpg)
-
-
-
-***<span style="color: #850000;">The Blank White Paper </span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
+***<span style="color: #850000;">The Blank White Paper</span>***, Installation View at *Health Hammer*, Solo Exhibition at **Forum Box**, Helsinki, Finland, 2026.
 
 <p>&nbsp;</p>
 
