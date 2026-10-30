@@ -1,6 +1,6 @@
 ---
 title: "An Oriental Girl"
-weight: 1
+weight: 5
 ---
 
 
@@ -8,7 +8,8 @@ weight: 1
 
    
 2025     
-Jacquard Weave, Handwoven, Wool and Cotton. Designed and woven by Yujie Zhou.
+Jacquard Weave, Handwoven, Wool and Cotton. Designed and Handwoven by Yujie Zhou.     
+Commissioned by the Finnish Museum of Photography for the exhibition *Invisible Race* (2025-2026).
 
 ***An Oriental Girl*** critically examines the politics of representation and systemic racialization through the lens of the Asian diaspora in Finland. The title is a reference to a caption attached to a studio portrait that belongs to the Finnish Museum of Photography’s collection. The image was donated to the museum in 1987 and had originally been labeled as *“Portrait of an oriental girl”* in the museum’s archival database. This reflects a broader pattern of framing BIPOC individuals through a White-centric lens, as it flattens the identity and erases the subjectivity of the person being depicted.
 

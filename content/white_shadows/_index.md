@@ -8,7 +8,7 @@ bookCollapseSection: true
 ### **<span style="color: #850000;">White Shadows</span>**
 
    
-2024, Jacquard Weave, Handwoven, Wool and Cotton. Designed and woven by the artist, each work is a unique piece.
+2024, Jacquard Weave, Handwoven, Wool and Cotton. Designed and Handwoven by Yujie Zhou.
 
 ***White Shadows*** is a series of handwoven textile works created using the Jacquard weaving technique. These tapestries transform archival images from the artist's upbringing—scenes marked by propaganda events and disciplinary practices—into black-and-white pixelated structures. The pixels function both as intersections of warp (vertical) and weft (horizontal) in weaving and as the basic units of photography. The white pixels in the woven structures are intended to bring the white weft threads to the front of the textiles. In this way, the artist makes the silenced and normalized experience visible— creating “white shadows.”    
 

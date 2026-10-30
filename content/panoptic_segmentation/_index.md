@@ -22,11 +22,6 @@ From a self-reflective critical stance, my practice seeks to identify, unravel a
 
 
 
-[![image](/images/eye_exercise-1.jpg)](../panoptic_segmentation/eye_exercise)
-***<span style="color: #850000;">Eye Exercises</span>***, 2024, Single-Channel Video, Color, Sound, 5:50 minutes.
-<p>&nbsp;</p>
-
-
 [![image](/images/frontpage/flipbook.jpg)](../panoptic_segmentation/%CF%80/)
 ***<span style="color: #850000;">π</span>***, 2023, Self-Published Artist book, Handmade, Edition of 25, Riso print, 143 x 81 x 12 mm.
 <p>&nbsp;</p>

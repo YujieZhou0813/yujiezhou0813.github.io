@@ -82,6 +82,7 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
 
 
 **Selected Screenings**    
+2025	Le Chambre, Strasbourg, France     
 2024	Contestations.ai, Helsinki, Finland    
 2024	Fotofestiwal, Łódź, Poland    
 2024	Kranj Foto Fest 2024, Slovenia    
