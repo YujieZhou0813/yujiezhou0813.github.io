@@ -9,3 +9,5 @@ description: Yujie Zhou (b. 1997, Chengdu, China) is a visual artist working wit
 ### **Contact**      
 
 email: yujiezhoustudio@gmail.com      
+
+instagram: [@yujie.jpg](https://www.instagram.com/yujie.jpg/) 

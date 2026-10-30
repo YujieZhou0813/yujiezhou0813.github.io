@@ -7,13 +7,11 @@ bookFlatSection: true
 
 **Yujie Zhou**   
  
-Yujie Zhou (they/them) is a Chinese visual artist based in Helsinki, Finland. They navigate a decoded notion of language and methods of bypassing censorship and surveillance through photography, Jacquard weaving, video, and publishing. Drawing from the juxtaposition between their nationalist upbringing and socio-political forms of control, their practice interrogates the construction of historical narratives while reframing collective individuality.
+Yujie Zhou (they/them) is a Chinese visual artist based in Helsinki, Finland. Working across photography, Jacquard weaving, installation, video, and printed matter, their practice explores concealed, erased, censored, and invisible histories and narratives.
 
-Zhou holds a Master’s degree in Arts from Aalto University, Finland, majoring in Photography with a minor in Textiles. Their work has been presented at the Finnish Museum of Photography (Helsinki, Finland); alpha nova & galerie futura (Berlin, Germany); Copenhagen International Photography Festival 2025; the Singapore International Photography Festival 2024; and Plat(t)form 2023 at Fotomuseum Winterthur, Switzerland.
+Drawing on the Chinese meaning of photography as capturing shadows, Zhou approaches the shadow as a metaphor for seeking what remains hidden beyond the visible. They use Jacquard weaving as a method of translation, transferring information that cannot exist in its original form into woven structures. The Jacquard loom, often considered an early precursor to binary computing, informs their approach to translating texts and images into material forms that evade the limitations of existing algorithms and systems. Through handweaving, bodily labour becomes an instrument of healing, transforming embodied memories of discipline and nationalism into practices of remembrance. Working with fragments, glitches, and illegibility as strategies of camouflage and resistance, Zhou creates alternative spaces for expression and seeks ways to preserve what cannot be found in public spaces, archived, or remembered.
 
-Zhou has been awarded the FUTURES Photography Talent 2024, the Finnish Art Society’s Young Artist Grant 2023, and shortlisted for the PhMuseum 2024 Photography Grant’s Main Prize. Their work is held in the Jenny and Antti Wihuri Foundation Collection. 
-
-Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finland), HIAP (Helsinki, Finland), Temple Bar Gallery + Studios (Dublin, Ireland), Pioneer Works (New York, USA), Künstlerdorf Schöppingen (Germany), and Treasure Hill Artist Village (Taipei, Taiwan).
+Zhou holds a Master’s degree in Arts from Aalto University, majoring in Photography with a minor in Textiles—Materials and Structures. Their work has been presented internationally at the Finnish Museum of Photography (Helsinki, Finland), Centre de la photographie Genève (Geneva, Switzerland), alpha nova & galerie futura (Berlin, Germany), the Copenhagen International Photography Festival, and the Singapore International Photography Festival. Zhou has participated in residencies at Kone Foundation’s Saari Residence, HIAP (Finland), Temple Bar Gallery + Studios (Ireland), Pioneer Works in collaboration with the Finnish Cultural Institute in New York (USA), Künstlerdorf Schöppingen (Germany), and Treasure Hill Artist Village (Taiwan).
 
 
 
