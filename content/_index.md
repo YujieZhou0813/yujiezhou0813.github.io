@@ -37,8 +37,8 @@ description: "Yujie Zhou is a visual artist working with  photography, textiles,
 
 <p>&nbsp;</p>
 
-[![image of fourwomen](/images/fourwomen_peri/peri.jpg)](../four_women/)
-***<span style="color: #850000;">Four Women</span>***, 2019-2023, Photography, textile sculptures, and artist book.
+[![image](/images/peri.jpg)](../four_drawers/)
+***<span style="color: #850000;">Four Drawers</span>***, 2019-2023, Photography and photographic sculptures.
 
 
 

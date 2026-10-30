@@ -5,7 +5,6 @@ weight: 30
 
 ### **<span style="color: #850000;">Eclipse</span>**
 
-from the series *Panoptic Segmentation*  
 2023, Archival pigment print, 120 x 80 cm    
 
 Photography in Chinese essentially means 'capturing shadows,' while the Latin etymology of photography refers to 'drawing with light.' Photography provides Yujie Zhou with the lens through which to explore the contents of capturing shadows—to discern what is still visible, even within the darkness they cast.
