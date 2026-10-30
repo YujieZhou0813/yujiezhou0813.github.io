@@ -19,31 +19,32 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
 
 **Solo Exhibitions**  
 2026 (upcoming) **Titanik**, Turku, Finland    
-2026 *Health Hammer*, **Forum Box**, Helsinki, Finland    
+2026 *Health Hammer*, [**Forum Box**](https://forumbox.fi/exhibition/tianjun-li-pavel-rotts-yujie-zhou/), Helsinki, Finland. Curated by Chih-Tung Lin.        
 2025 *Making Myself Invisible*,  **Kone Foundation's Puhuri by Patisserie Teemu Aura**, Helsinki, Finland      
 2024 *White Shadows*, **Vent Space**, Tallinn, Estonia    
 2024  *White Shadows*, [**Taidekeskus Mältinranta**](https://maltinranta.fi/yujie-zhou/), Tampere, Finland   
+2024	*Yellow River*, **Inside/Outside, HIAP**, Helsinki, Finland. Curated by Farbod Fakharzadeh.     
 2023 *QWERTY*, [**Photographic Gallery Hippolyte**](https://hippolyte.fi/en/nayttely/yujie-zhou/), Helsinki, Finland    
 2023 *Four Women*, [**Photographic Centre Peri**](https://valokuvakeskusperi.fi/yujie-zhou-four-women-131-122), Turku, Finland     
 2022	*Four Women*, [**BFoto Festival**](https://www.bfoto.org/trabajos/yujie-zhou/), Barbastro, Spain
 
 
  **Selected Group Exhibitions**  
-2026	*The Shudder Palace*, [**Centre de la photographie Genève**](https://www.centrephotogeneve.ch/exhibitions/le-palais-des-tressaillements), Genève, Switzerland    
+2026	*The Shudder Palace*, [**Centre de la photographie Genève**](https://www.centrephotogeneve.ch/exhibitions/le-palais-des-tressaillements), Genève, Switzerland. Curated by Danaé Panchaud, Aline Bovard Rudaz, and Paloma Jones Revaud.         
 2026	*Nuoret 2026*, [**Kunsthalle Helsinki**](https://taidehalli.fi/events/nuoret-2026/), Helsinki, Finland    
-2026	*Pelekääkkö nää polliisia?*, [**Photo North – Northern Photographic Centre**](https://www.photonorth.fi/fi/nayttelyt/pelekaakko-naa-polliisia/), Oulu, Finland.    
+2026	*Pelekääkkö nää polliisia?*, [**Photo North – Northern Photographic Centre**](https://www.photonorth.fi/fi/nayttelyt/pelekaakko-naa-polliisia/), Oulu, Finland. Curated by Katie Lenanton and Farbod Fakharzadeh.     
 2026	*THAV 2025 Season 4 Artist Exhibition*, **Treasure Hill Artist Village**, Taipei, Taiwan    
-2025 	*Invisible Race*, [**Finnish Museum of Photography**](https://www.valokuvataiteenmuseo.fi/en/exhibitions/invisible-race), Helsinki, Finland    
-2025	*Into the Light*, [**Copenhagen International Photography Festival**](https://copenhagenphotofestival.com/copenhagen-photo-selectees-2025/), Copenhagen,Denmark              
-2025	*Was I ever really here?*, Old Pfizer Factory, curated by the [**School of Visual Arts MA Curatorial Practice**](https://www.macp.sva.edu/was-i-ever-really-here), Brooklyn, New York, USA.
-2024 *Save as Text*, [**Singapore International Photography Festival**](https://sipf.sg/save-as-text/), Singapore     
+2025-2026 	*Invisible Race*, [**Finnish Museum of Photography**](https://www.valokuvataiteenmuseo.fi/en/exhibitions/invisible-race), Helsinki, Finland. Curated by Päiviö Maurice Omwami and Orlan Ohtonen.        
+2025	*Into the Light*, [**Copenhagen International Photography Festival**](https://copenhagenphotofestival.com/copenhagen-photo-selectees-2025/), Copenhagen,Denmark  
+2025	*~~Sorry~~*, **Gallery Loisti**, Helsinki, Finland. Curated by Micol Curatolo.    
+2025	*Was I ever really here?*, [**Old Pfizer Factory**](https://www.macp.sva.edu/was-i-ever-really-here), Brooklyn, New York, USA. Curated by the School of Visual Arts MA Curatorial Practice.   
+2024 *Disrupted Narratives*, [**Singapore International Photography Festival**](https://sipf.sg/save-as-text/), Singapore     
 2024 *Way of the World - Works from Jenny and Antti Wihuri Foundation Collection*, [**Rovaniemi Art Museum**](https://korundi.fi/fi/kavijalle/tapahtumakalenteri/maailman-menoa-teoksia-jenny-ja-antti-wihurin-rahaston-kokoelmasta), Rovaniemi, Finland     
-2023 *I Made You To Find Me*, [**Berlin Art Week**](https://berlinartweek.de/en/event/i-made-you-to-find-me/42dc209a-a8f1-4299-9d65-23562a97c3f3/?t=vernissage), alpha nova & galerie futura, Berlin, Germany  
-2023 *MoA in Photography 23*, [**The Finnish Museum of Photography**](https://www.valokuvataiteenmuseo.fi/en/exhibitions/moa-photography-23), Helsinki, Finland   
-2023 *Performing the Photobook*, **FORMAT Photography Festival**, Derby Museum, Derby, UK       
+2023 *I Made You To Find Me*, [**alpha nova & galerie futura**](https://berlinartweek.de/en/event/i-made-you-to-find-me/42dc209a-a8f1-4299-9d65-23562a97c3f3/?t=vernissage), Berlin, Germany. Curated by Li Yang.     
+2023 *MoA in Photography 23*, [**The Finnish Museum of Photography**](https://www.valokuvataiteenmuseo.fi/en/exhibitions/moa-photography-23), Helsinki, Finland     
 2023 *Tides*, **Espoo Culture Center**, Espoo, Finland      
 2022	*Booked*, **MUU Helsinki Contemporary Art Centre**, Helsinki, Finland   
-2022 *Wonder(ful)*, **Dipoli Gallery**, Espoo, Finland   
+2022 *Wonder(ful)*, **Dipoli Gallery**, Espoo, Finland. Curated by Outi Turpeinen.   
  
 
 **Selected Awards**    
@@ -58,8 +59,8 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
 
 
 **Selected Fellowships / Residencies**    
-2026	FUTURES Artistic Residency, Amsterdam, Netherlands   
-2026	[**Treasure Hill Artist Village**](https://www.artistvillage.org/artist-detail.php?p=5043&type=&place=&q=), Taipei, Taiwan      
+2026	[**FUTURES Artistic Residency**](https://www.futures-photography.com/stories/On-process-Yujie-Zhou-in-Conversation-with-Simone-Zeefuik), Amsterdam, Netherlands   
+2025-2026	[**Treasure Hill Artist Village**](https://www.artistvillage.org/artist-detail.php?p=5043&type=&place=&q=), Taipei, Taiwan      
 2025 	[**Stiftung Künstlerdorf Schöppingen Foundation**](http://stiftung-kuenstlerdorf.de/en/stipendiatinnen), Münsterland, Germany          
 2025 [**Pioneer Works**](https://fciny.org/news/the-fcinys-artists-in-residence-2025), Artists-in-Residence program by Finnish Cultural Institute in New York. New York, USA.      
 2025 [**Tempel Bar Gallery + Studios**](https://www.templebargallery.com/news/temple-bar-gallery-studios-and-hiap-helsinki-international-artist-programme-announce-the-recipients-of-the-tbg-s-hiap-international-residency-exchange-2025),TBG+S/HIAP International Residency Exchange 2025, Dublin, Ireland      
@@ -69,12 +70,12 @@ Zhou has been granted residencies at Kone Foundation’s Saari Residence (Finlan
 
 
 **Selected Grants**  
-2026	Finnish Cultural Foundation, Artist Grant
-2025	Finnish Cultural Foundation, Mobility Grant
-2025	Arts Promotion Centre Finland, One-Year Artist Grant        
-2024	Arts Promotion Centre Finland, Six-Month Artist Grant    
-2024	Olga and Vilho Linnamo Foundation, One-Year Working Grant   
-2024	Arts Promotion Centre Finland, Project Grant     
+2026	Finnish Cultural Foundation, Artist Working Grant (2 years)     
+2025	Finnish Cultural Foundation, Mobility Grant        
+2025	Arts Promotion Centre Finland, Artist Working Grant (1 year)               
+2024	Arts Promotion Centre Finland, Artist Working Grant (6 months)    
+2024	Olga and Vilho Linnamo Foundation, Artist Working Grant (1 year)      
+2024	Arts Promotion Centre Finland, Project Grant       
 2023	Arts Promotion Centre Finland, Project Grant   
 2023	Finnfoto, Project Grant    
 2023	Young Artist Grant, Finnish Art Society, Finland   
@@ -98,7 +99,8 @@ KIILA Finland
 
 **Education**    
 2021-2023	Master of Arts, Aalto University, Finland.        
-		Major in Photography. Minor in Textiles — Material and Structure.           
+		Major in Photography. Minor in Textiles — Material and Structure.   
+		            
 2015-2019	Bachelor of Science, Mechanical Engineering.       
  		University of Illinois Chicago, USA      
 		Changchun University of Science and Technology, China 

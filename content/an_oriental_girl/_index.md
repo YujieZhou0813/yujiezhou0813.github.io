@@ -22,6 +22,8 @@ Yujie Zhou is indebted to the generous time, energy, and resources of collaborat
 
 “The portrait of an oriental girl” in the Finnish Museum of Photography’s collection is a work by the photographer **Salme Simanainen** (1920-2012), whose studio in Helsinki was appreciated by celebrities, among others. The names of the portrayed people from Simanainen’s studio are not all written on the prints, but behind the “oriental girl” print, she had written: “A Japanese pianist in Helsinki”.
 
+<span style="color: #808080;">The work has been exhibited in *Invisible Race* at **the Finnish Museum of Photography**, Helsinki, and *Nuoret 2026* at **Kunsthalle Helsinki**.</span>
+
 
 
 ![image of installation](ADA-1.jpg)
@@ -43,6 +45,25 @@ Yujie Zhou is indebted to the generous time, energy, and resources of collaborat
 ***<span style="color: #850000;">An Oriental Girl </span>***, Installation View at *Invisible Race*, **Finnish Museum of Photography**, Helsinki, Finland, September 2025-March 2026.    
 
 Image Credit: Invisible Race exhibition, Finnish Museum of Photography, photographer Virve Laustela, 2025
+
+
+<p>&nbsp;</p>
+
+
+![image of installation](An-Oriental-Girl_1.jpg)
+
+
+
+
+![image of installation](An-Oriental-Girl_3.jpg)
+
+
+
+![image of installation](An-Oriental-Girl_4.jpg)
+
+***<span style="color: #850000;">An Oriental Girl </span>***, Installation View at *Nuoret 2026*, **Kunsthalle Helsinki**, Helsinki, Finland, 2026.    
+
+Image Credit: Patrik Rastenberger, 2026
 
 
 <p>&nbsp;</p>

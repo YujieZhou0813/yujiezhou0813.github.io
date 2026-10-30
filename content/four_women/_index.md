@@ -16,6 +16,10 @@ Grown-up in China, I was taught that individuals subscribe to collective values,
 All four of us, through one another, have undergone 100 years of fast-paced changes in China. We have all been changed and engulfed by the times. My great-grandmother, my grandmother, and my mother never once dared claim they were feminists; still, embedded in me since my birth-given unisex name, how they raised me is who they’ve made me –a feminist, an artist. 
 
 
+<span style="color: #808080;">The work was presented in a solo exhibition at Photographic Centre Peri, Turku, Finland, in 2023, and at BFoto Festival, Barbastro, Spain, in 2022. It was also exhibited in *I Made You To Find Me* at alpha nova & galerie futura, Berlin, Germany.</span>
+
+
+
 [![image of fourwomen](/images/fourwomen_peri/peri.jpg)](../four_women/installation_view/)
 ***<span style="color: #850000;">Four Women</span>***, Installation View at *Four Women*, Solo Exhibition at **Photographic Centre Peri**, Turku Kunsthall, Finland, 2023
 

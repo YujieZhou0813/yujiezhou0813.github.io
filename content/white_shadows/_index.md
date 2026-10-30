@@ -15,9 +15,11 @@ bookCollapseSection: true
 The Jacquard loom is considered a precursor to the modern computer. It employs a binary system—black and white "pixels"—to encode and store information. Glitches occur as the pixels are translated from image files to weaving design files, forming the woven structure —faces blur, recognition fades, and identities are obscured. These deliberate disruptions act as a form of camouflage, protecting the artist and others who share this collective identity.
 
 
+<span style="color: #808080;">The work has been presented in solo exhibitions at Vent Space, Tallinn, Estonia, and Taidekeskus Mältinranta, Tampere, Finland, in 2024. It was also exhibited in *Into the Light* at **Copenhagen International Photography Festival 2025**, Copenhagen, Denmark, and *The Shudder Palace* at **Centre de la photographie Genève**, Geneva, Switzerland, in 2026.</span>
 
 
 
+![white shadows](white_shadows-75.jpg)  
 
 ![white shadows](textile-02.jpg)  
 

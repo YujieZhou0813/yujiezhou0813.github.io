@@ -15,6 +15,10 @@ Jacquard Weave, Wool and Cotton. Designed and woven Yujie Zhou.
 In ancient Chinese language, the character for text （文）originated as the literal depiction of a tattooed human body.  Paralleling the permanence of tattoos, the Jacquard Weave materializes the ephemeral nature of social media content into tangible, long-lasting forms. Though many present-day whistleblowers have “disappeared” along with their digital footprint, *Save as Text* memorializes their impact and bravery, continuing on their legacy for sharing truth.
 
 
+<span style="color: #808080;">The work has been exhibited in solo exhibition *QWERTY* at **Photographic Gallery Hippolyte**, Helsinki, 2023, and at the **Singapore International Photography Festival** in 2024. It was shortlisted for the **PhMuseum 2024 Photography Grant**.</span>
+
+
+
 ![image of installation](/images/Hippolyte/hippolyte-23.jpg)
 
 

@@ -31,7 +31,7 @@ description: "Yujie Zhou is a visual artist working with  photography, textiles,
 
 <p>&nbsp;</p>
 
-[![white shadows](/images/textile-05.jpg)](../white_shadows/)
+[![white shadows](/images/white_shadows-75.jpg)](../white_shadows/)
 ***<span style="color: #850000;">White Shadows</span>***, 2024, Jacquard Weave, Handwoven, Wool and Cotton.      
 
 

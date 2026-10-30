@@ -35,7 +35,7 @@ From a self-reflective critical stance, my practice seeks to identify, unravel a
 
 
 [![image of eclipse](hippolyte-36.jpg )](../panoptic_segmentation/eclipse/)
-***<span style="color: #850000;">Eclipse</span>***, 2022, Archival pigment print, 120 x 80 cm.  
+***<span style="color: #850000;">Eclipse</span>***, 2023, Archival pigment print, 120 x 80 cm.  
 <p>&nbsp;</p>
 
 
