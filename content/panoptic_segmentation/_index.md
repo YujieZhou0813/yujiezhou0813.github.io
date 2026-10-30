@@ -51,7 +51,7 @@ From a self-reflective critical stance, my practice seeks to identify, unravel a
 <p>&nbsp;</p>
 
 
-[![image](../content/panoptic_segmentation/dictionary_of_self_censorship/dictionary-3.jpg)](../panoptic_segmentation/dictionary_of_self_censorship)
+[![image](/images/dictionary-3.jpg)](../panoptic_segmentation/dictionary_of_self_censorship)
 ***<span style="color: #850000;">Dictionary of Self-Censorship</span>***,  2023-2025, Vinyl Cutting , Notebook, Lightbox.
 <p>&nbsp;</p>
 
