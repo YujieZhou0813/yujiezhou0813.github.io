@@ -8,11 +8,15 @@ weight: 8
 
    
 2023    
-Jacquard Weave, Wool and Cotton. Designed and woven Yujie Zhou. 
+Jacquard Weave, Wool and Cotton, 210-310 x 110cm. Designed and woven Yujie Zhou. 
 
-***Save as Text*** employs weaving as a form of writing to circumnavigate censorship in the contemporary era. Inspired by creative translation methods used by anonymous netizens on social media to evade censorship while dismantling propaganda, weaving is the artist’s medium to rewrite censored texts. By utilizing glitches in photography and the image-making process, this medium disrupts and preserves the censored texts as a new form of evidence that cannot exist in their original state.
+***Save as Text*** employs weaving as a form of writing to circumnavigate censorship in the contemporary era. Inspired by creative translation methods used by anonymous netizens on social media to evade censorship while dismantling propaganda, weaving is the artist’s medium to rewrite censored texts. By translating censored texts into illegible visual languages, Zhou seeks to disrupt and preserve the censored texts as a new form of evidence that cannot exist in their original state.
 
-In ancient Chinese language, the character for text （文）originated as the literal depiction of a tattooed human body.  Paralleling the permanence of tattoos, the Jacquard Weave materializes the ephemeral nature of social media content into tangible, long-lasting forms. Though many present-day whistleblowers have “disappeared” along with their digital footprint, *Save as Text* memorializes their impact and bravery, continuing on their legacy for sharing truth.
+
+The Jacquard loom, developed in the 1800s, often considered a precursor to modern computing, uses punched cards to translate patterns into a binary system of instructions. Drawing parallels between weaving and digital censorship, both systems rely on binary code. The Jacquard loom interprets each pixel of an image as binary data to control the threads. Similarly, computerized censorship systems detect and block banned keywords and histories utilizing the binary code system. Zhou employs Jacquard weaving as a medium to transform the binary system into an infinite materiality to evade censorship. The act of weaving, therefore, not only creates fabric but also recreates images and text, transforming pixels from the binary system to the textiles of resistance.
+
+
+In ancient Chinese language, the character for *text*（文）originated as the literal depiction of a tattooed human body.  Paralleling the permanence of tattoos, the Jacquard Weave materializes the ephemeral nature of social media content into tangible, long-lasting forms. Though many present-day whistleblowers have “disappeared” along with their digital footprint, *Save as Text* memorializes their impact and bravery, continuing on their legacy for sharing truth.
 
 
 <span style="color: #808080;">The work has been exhibited in solo exhibition *QWERTY* at **Photographic Gallery Hippolyte**, Helsinki, 2023, and at the **Singapore International Photography Festival** in 2024. It was shortlisted for the **PhMuseum 2024 Photography Grant**.</span>
